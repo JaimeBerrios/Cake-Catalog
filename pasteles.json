@@ -800,5 +800,77 @@
     "imagen": "img/100.png",
     "gd": "2",
     "descripcion": "Imagen en plaquita"
+  },
+  {
+    "categoria": "frutales",
+    "titulo": "Capricho de Frutas",
+    "icono": "fas fa-music",
+    "imagen": "img/101.png",
+    "gd": "4",
+    "descripcion": ""
+  },
+  {
+    "categoria": "frutales",
+    "titulo": "Explosión de Frutas",
+    "icono": "fa-solid fa-apple-whole",
+    "imagen": "img/102.png",
+    "gd": "4",
+    "descripcion": ""
+  },
+{
+    "categoria": "frutales",
+    "titulo": "Fantasía de Frutas",
+    "icono": "fa-solid fa-apple-whole",
+    "imagen": "img/103.png",
+    "gd": "4",
+    "descripcion": ""
+  },
+{
+    "categoria": "frutales",
+    "titulo": "FRESAS 01",
+    "icono": "fa-solid fa-apple-whole",
+    "imagen": "img/104.png",
+    "gd": "4",
+    "descripcion": ""
+  },
+{
+    "categoria": "frutales",
+    "titulo":"FRUTAS 01",
+    "icono": "fa-solid fa-apple-whole",
+    "imagen": "img/105.png",
+    "gd": "7",
+    "descripcion": "Frutas de las disponibles"
+  },
+{
+    "categoria": "frutales",
+    "titulo":"FRUTAS 03",
+    "icono": "fa-solid fa-apple-whole",
+    "imagen": "img/106.png",
+    "gd": "7",
+    "descripcion": "Frutas disponibles, semilla de almendra"
+  },
+{
+    "categoria": "frutales",
+    "titulo":"FRUTAS 04",
+    "icono": "fa-solid fa-apple-whole",
+    "imagen": "img/107.png",
+    "gd": "7",
+    "descripcion": "Frutas disponibles"
+  } ,
+{
+    "categoria": "frutales",
+    "titulo":"FRUTAS 06",
+    "icono": "fa-solid fa-apple-whole",
+    "imagen": "img/109.png",
+    "gd": "4",
+    "descripcion": "Frutas disponibles"
+  } ,
+{
+    "categoria": "frutales",
+    "titulo":"FRUTAS 07",
+    "icono": "fa-solid fa-apple-whole",
+    "imagen": "img/110.png",
+    "gd": "4",
+    "descripcion": "Frutas disponible incluyendo la galleta"
   }
 ]
