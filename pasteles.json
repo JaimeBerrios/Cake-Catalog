@@ -348,7 +348,7 @@
   {
     "categoria": "niño",
     "titulo": "SPIDER MAN NIÑO",
-    "icono": "fas fa-mask", 
+    "icono": "fas fa-mask",
     "imagen": "img/45.png",
     "gd": "2",
     "descripcion": ""
@@ -817,7 +817,7 @@
     "gd": "4",
     "descripcion": ""
   },
-{
+  {
     "categoria": "frutales",
     "titulo": "Fantasía de Frutas",
     "icono": "fa-solid fa-apple-whole",
@@ -825,52 +825,379 @@
     "gd": "4",
     "descripcion": ""
   },
-{
+  {
     "categoria": "frutales",
     "titulo": "FRESAS 01",
     "icono": "fa-solid fa-apple-whole",
-    "imagen": "img/104.png",
+    "imagen": "img/104.jpg",
     "gd": "4",
     "descripcion": ""
   },
-{
+  {
     "categoria": "frutales",
-    "titulo":"FRUTAS 01",
+    "titulo": "FRUTAS 01",
     "icono": "fa-solid fa-apple-whole",
     "imagen": "img/105.png",
     "gd": "7",
     "descripcion": "Frutas de las disponibles"
   },
-{
+  {
     "categoria": "frutales",
-    "titulo":"FRUTAS 03",
+    "titulo": "FRUTAS 03",
     "icono": "fa-solid fa-apple-whole",
     "imagen": "img/106.png",
     "gd": "7",
     "descripcion": "Frutas disponibles, semilla de almendra"
   },
-{
+  {
     "categoria": "frutales",
-    "titulo":"FRUTAS 04",
+    "titulo": "FRUTAS 04",
     "icono": "fa-solid fa-apple-whole",
     "imagen": "img/107.png",
     "gd": "7",
     "descripcion": "Frutas disponibles"
-  } ,
-{
+  },
+  {
     "categoria": "frutales",
-    "titulo":"FRUTAS 06",
+    "titulo": "FRUTAS 06",
     "icono": "fa-solid fa-apple-whole",
     "imagen": "img/109.png",
     "gd": "4",
     "descripcion": "Frutas disponibles"
-  } ,
-{
+  },
+  {
     "categoria": "frutales",
-    "titulo":"FRUTAS 07",
+    "titulo": "FRUTAS 07",
     "icono": "fa-solid fa-apple-whole",
     "imagen": "img/110.png",
     "gd": "4",
     "descripcion": "Frutas disponible incluyendo la galleta"
+  },
+  {
+    "categoria": "graduación",
+    "titulo": "GRADUACION ABC",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/111.png",
+    "gd": "3",
+    "descripcion": ""
+  },
+  {
+    "categoria": "graduación",
+    "titulo": "GRADUACIÓN NIÑOS",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/112.png",
+    "gd": "1",
+    "descripcion": ""
+  },
+  {
+    "categoria": "graduación",
+    "titulo": "GRADUACIÓN BLANCO",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/113.png",
+    "gd": "4",
+    "descripcion": ""
+  },
+  {
+    "categoria": "graduación",
+    "titulo": "GRADUACIÓN CELESTE",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/114.png",
+    "gd": "2",
+    "descripcion": ""
+  },
+  {
+    "categoria": "graduación",
+    "titulo": "GRADUACIÓN AZUL",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/115.png",
+    "gd": "2",
+    "descripcion": ""
+  },
+  {
+    "categoria": "graduación",
+    "titulo": "GRADUACIÓN ROSA",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/116.png",
+    "gd": "3",
+    "descripcion": ""
+  },
+  {
+    "categoria": "graduación",
+    "titulo": "GRADUACIÓN 02",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/117.png",
+    "gd": "3",
+    "descripcion": "Figuras de dulce"
+  },
+  {
+    "categoria": "graduación",
+    "titulo": "GRADUACIÓN 01",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/118.png",
+    "gd": "2",
+    "descripcion": "Imagen digital"
+  },
+  {
+    "categoria": "graduación",
+    "titulo": "GRADUACIÓN 04",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/119.png",
+    "gd": "4",
+    "descripcion": "Imagen digital, estrellas de dulce doradas."
+  },
+  {
+    "categoria": "graduación",
+    "titulo": "GRADUACIÓN 05",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/120.png",
+    "gd": "3",
+    "descripcion": "Figuras de dulce"
+  },
+  {
+    "categoria": "graduación",
+    "titulo": "GRADUACIÓN 06",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/121.png",
+    "gd": "3",
+    "descripcion": "Figuras de dulce"
+  },
+  {
+    "categoria": "graduación",
+    "titulo": "GRADUACIÓN 08",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/122.png",
+    "gd": "4",
+    "descripcion": "Imagen gelly"
+  },
+  {
+    "categoria": "graduación",
+    "titulo": "GRADUACIÓN 07",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/123.png",
+    "gd": "5",
+    "descripcion": "Figuras de dulce"
+  },
+  {
+    "categoria": "graduación",
+    "titulo": "GRADUACIÓN 09",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/124.png",
+    "gd": "4",
+    "descripcion": "Figura de dulce, flores de crema parecidas"
+  },
+  {
+    "categoria": "graduación",
+    "titulo": "GRADUACIÓN 10",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/125.png",
+    "gd": "2",
+    "descripcion": "Flores de crema."
+  },
+  {
+    "categoria": "graduación",
+    "titulo": "GRADUACIÓN 11",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/126.png",
+    "gd": "3",
+    "descripcion": "Figuras en plaquita"
+  },
+  {
+    "categoria": "graduación",
+    "titulo": "GRADUACIÓN 12",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/127.png",
+    "gd": "4",
+    "descripcion": "Figuras de dulce"
+  },
+  {
+    "categoria": "graduación",
+    "titulo": "GRADUACIÓN 13",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/128.png",
+    "gd": "3",
+    "descripcion": "Figuras de dulce"
+  },
+  {
+    "categoria": "graduación",
+    "titulo": "GRADUACIÓN 14",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/129.png",
+    "gd": "4",
+    "descripcion": "Figuras de dulce"
+  },
+  {
+    "categoria": "graduación",
+    "titulo": "GRADUACIÓN 16",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/130.png",
+    "gd": "4",
+    "descripcion": "Figura de dulce, flores de crema"
+  },
+  {
+    "categoria": "graduación",
+    "titulo": "GRADUACIÓN 17",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/131.png",
+    "gd": "3",
+    "descripcion": "Figura de dulce"
+  },
+  {
+    "categoria": "graduación",
+    "titulo": "GRADUACIÓN 18",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/132.png",
+    "gd": "3",
+    "descripcion": "Figura de dulce"
+  },
+  {
+    "categoria": "graduación",
+    "titulo": "GRADUACIÓN 19",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/133.png",
+    "gd": "4",
+    "descripcion": "Rosas de crema, figuras en topper, diploma de dulce"
+  },
+  {
+    "categoria": "graduación",
+    "titulo": "Triunfador",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/134.jpg",
+    "gd": "1",
+    "descripcion": "figura dibujada"
+  },
+  {
+    "categoria": "graduación",
+    "titulo": "Sueños cumplidos",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/135.jpg",
+    "gd": "3",
+    "descripcion": "flores artificiales"
+  },
+  {
+    "categoria": "graduación",
+    "titulo": "Victoria",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/136.jpg",
+    "gd": "1",
+    "descripcion": "flores de dulce figura en topper"
+  },
+  {
+    "categoria": "graduación",
+    "titulo": "Feliz Graduación",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/137.jpg",
+    "gd": "1",
+    "descripcion": "figuras de dulce"
+  },
+  {
+    "categoria": "graduación",
+    "titulo": "Éxitos",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/138.jpg",
+    "gd": "2",
+    "descripcion": "figura plastica y topper"
+  },
+  {
+    "categoria": "graduación",
+    "titulo": "Cake Abecedario pequeño",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/139.png",
+    "gd": "1",
+    "descripcion": "tamaños 18cm 24cm 28cm"
+  },
+  {
+    "categoria": "graduación",
+    "titulo": "Cake Abecedario grande",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/140.png",
+    "gd": "2",
+    "descripcion": "tamaño 34cm 38cm recta 30 y recta 60 o superior"
+  },
+  {
+    "categoria": "graduación",
+    "titulo": "Cake Estrella pequeña.",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/141.png",
+    "gd": "1",
+    "descripcion": "tamaños 18cm 24cm 28cm"
+  },
+  {
+    "categoria": "graduación",
+    "titulo": "Cake Estrella grande.",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/142.png",
+    "gd": "2",
+    "descripcion": "tamaños 34cm 38cm recta 30 recta 60 y superior"
+  },
+  {
+    "categoria": "graduación",
+    "titulo": "Class 2024",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/143.png",
+    "gd": "1",
+    "descripcion": "Birrete de dulce. esferas falsas. lateral en topper"
+  }
+  ,
+  {
+    "categoria": "graduación",
+    "titulo": "De Gala",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/144.png",
+    "gd": "2",
+    "descripcion": "Rosas artificiales, Birrete de dulce. lateral en topper"
+  }
+  ,
+  {
+    "categoria": "graduación",
+    "titulo": "Dulce Mérito",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/145.png",
+    "gd": "1",
+    "descripcion": "Birrete de dulce. figura graduado en topper"
+  }
+  ,
+  {
+    "categoria": "graduación",
+    "titulo": "Motivación",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/146.png",
+    "gd": "1",
+    "descripcion": "Birrete de Dulce. Figuras en plaquita"
+  }
+  ,
+  {
+    "categoria": "graduación",
+    "titulo": "Nobel",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/147.png",
+    "gd": "3",
+    "descripcion": "Birrete de dulce. figuras en topper"
+  }
+  ,
+  {
+    "categoria": "piso",
+    "titulo": "ADONIS",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/148.jpg",
+    "gd": "",
+    "descripcion": "DISPONIBLE EN PRESENTACIONES DE *136, 161 Y 200 PORCIONES REQUIERE DEPOSITO DE BASE DE $30.00"
+  }
+  ,
+  {
+    "categoria": "piso",
+    "titulo": "AMADO",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/149.jpg",
+    "gd": "",
+    "descripcion": "Grande 160P,Pequeño 115P"
+  }
+  ,
+  {
+    "categoria": "piso",
+    "titulo": "AURA",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/150.jpg",
+    "gd": "",
+    "descripcion": "Grande 160P,Pequeño 115P"
   }
 ]
