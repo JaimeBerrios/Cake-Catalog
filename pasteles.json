@@ -1136,8 +1136,7 @@
     "imagen": "img/143.png",
     "gd": "1",
     "descripcion": "Birrete de dulce. esferas falsas. lateral en topper"
-  }
-  ,
+  },
   {
     "categoria": "graduación",
     "titulo": "De Gala",
@@ -1145,8 +1144,7 @@
     "imagen": "img/144.png",
     "gd": "2",
     "descripcion": "Rosas artificiales, Birrete de dulce. lateral en topper"
-  }
-  ,
+  },
   {
     "categoria": "graduación",
     "titulo": "Dulce Mérito",
@@ -1154,8 +1152,7 @@
     "imagen": "img/145.png",
     "gd": "1",
     "descripcion": "Birrete de dulce. figura graduado en topper"
-  }
-  ,
+  },
   {
     "categoria": "graduación",
     "titulo": "Motivación",
@@ -1163,8 +1160,7 @@
     "imagen": "img/146.png",
     "gd": "1",
     "descripcion": "Birrete de Dulce. Figuras en plaquita"
-  }
-  ,
+  },
   {
     "categoria": "graduación",
     "titulo": "Nobel",
@@ -1172,8 +1168,7 @@
     "imagen": "img/147.png",
     "gd": "3",
     "descripcion": "Birrete de dulce. figuras en topper"
-  }
-  ,
+  },
   {
     "categoria": "piso",
     "titulo": "ADONIS",
@@ -1181,8 +1176,7 @@
     "imagen": "img/148.jpg",
     "gd": "",
     "descripcion": "DISPONIBLE EN PRESENTACIONES DE *136, 161 Y 200 PORCIONES REQUIERE DEPOSITO DE BASE DE $30.00"
-  }
-  ,
+  },
   {
     "categoria": "piso",
     "titulo": "AMADO",
@@ -1190,8 +1184,7 @@
     "imagen": "img/149.jpg",
     "gd": "",
     "descripcion": "Grande 160P,Pequeño 115P"
-  }
-  ,
+  },
   {
     "categoria": "piso",
     "titulo": "AURA",
@@ -1199,5 +1192,317 @@
     "imagen": "img/150.jpg",
     "gd": "",
     "descripcion": "Grande 160P,Pequeño 115P"
+  },
+  {
+    "categoria": "piso",
+    "titulo": "DIVO",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/151.jpg",
+    "gd": "",
+    "descripcion": "Grande 440P,Pequeño 280P"
+  },
+  {
+    "categoria": "piso",
+    "titulo": "ESPLENDIDO",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/152.jpg",
+    "gd": "",
+    "descripcion": "Grande 300P,Pequeño 200P"
+  },
+  {
+    "categoria": "piso",
+    "titulo": "ILUSION DE GUIRNALDA",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/153.jpg",
+    "gd": "",
+    "descripcion": "Grande 160 P,Pequeño 115 P"
+  },
+  {
+    "categoria": "piso",
+    "titulo": "LUNA DE MIEL",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/154.jpg",
+    "gd": "",
+    "descripcion": "Grande 160 P,Pequeño 115 P"
+  },
+  {
+    "categoria": "piso",
+    "titulo": "MAGNIFICO",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/155.jpg",
+    "gd": "",
+    "descripcion": "Grande 160 P,Pequeño 115 P"
+  },
+  {
+    "categoria": "piso",
+    "titulo": "MAJO",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/156.jpg",
+    "gd": "",
+    "descripcion": "Grande 275P,Pequeño 140P"
+  },
+  {
+    "categoria": "piso",
+    "titulo": "QUERUBIN",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/157.jpg",
+    "gd": "",
+    "descripcion": "Diseno_163"
+  },
+  {
+    "categoria": "piso",
+    "titulo": "RADIANTE",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/158.jpg",
+    "gd": "",
+    "descripcion": "Grande 385P,Pequeño 230P"
+  },
+  {
+    "categoria": "piso",
+    "titulo": "RAMO DE PRIMAVERA",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/159.jpg",
+    "gd": "",
+    "descripcion": "Diseno_174"
+  },
+  {
+    "categoria": "piso",
+    "titulo": "REAL",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/160.jpg",
+    "gd": "",
+    "descripcion": "Grande 440P,Pequeño 220P"
+  },
+  {
+    "categoria": "piso",
+    "titulo": "REGIO",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/161.jpg",
+    "gd": "",
+    "descripcion": "Grande 290P,Pequeño 160P"
+  },
+  {
+    "categoria": "piso",
+    "titulo": "RIGEL",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/162.jpg",
+    "gd": "",
+    "descripcion": "Grande 160 P,Pequeño 115 P"
+  },
+  {
+    "categoria": "piso",
+    "titulo": "ROSAS",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/163.jpg",
+    "gd": "",
+    "descripcion": "Grande 575P,Pequeño 420P"
+  },
+  {
+    "categoria": "piso",
+    "titulo": "RUBI",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/164.jpg",
+    "gd": "",
+    "descripcion": "Grande 160 P,Pequeño 115 P"
+  },
+  {
+    "categoria": "piso",
+    "titulo": "SUBLIME",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/190.jpg",
+    "gd": "",
+    "descripcion": "Grande 160 P,Pequeño 115 P"
+  },
+  {
+    "categoria": "piso",
+    "titulo": "RAMILLETE BODAS",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/166.png",
+    "gd": "",
+    "descripcion": "Triple Relleno en crema pastelera y Remojo tres leches Tamaño grande: 94 porciones / precio $215.00"
+  },
+  {
+    "categoria": "piso",
+    "titulo": "PROSPERIDAD BODAS",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/167.png",
+    "gd": "",
+    "descripcion": "gd2 de piso. doble relleno, arreglos naturales mas $60 de base disponible Grande 180P,Pequeño 130P"
+  },
+  {
+    "categoria": "piso",
+    "titulo": "UNION BODAS",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/168.png",
+    "gd": "",
+    "descripcion": "Triple Relleno en crema pastelera y Remojo tres leches Tamaño grande: 216 porciones Precio $450.00"
+  },
+  {
+    "categoria": "piso",
+    "titulo": "ESPONSABLES BODAS",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/169.png",
+    "gd": "",
+    "descripcion": "Triple Relleno en crema pastelera y Remojo tres leches Tamaño grande: 130 porciones / precio $240.00"
+  },
+  {
+    "categoria": "piso",
+    "titulo": "TERNURA",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/170.jpg",
+    "gd": "2",
+    "descripcion": "Rosas artificiales. pastel de 3 pisos altura normal."
+  },
+  {
+    "categoria": "piso",
+    "titulo": "PISO 01",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/171.png",
+    "gd": "2",
+    "descripcion": "$111 torta 24 34cm de 3 rellenos. Le rinde para 64 porciones. Arreglos artificiales. figuras en topp"
+  },
+  {
+    "categoria": "piso",
+    "titulo": "PISO 02",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/172.png",
+    "gd": "2",
+    "descripcion": "$111 torta 24 34cm de 3 rellenos. Le rinde para 64 porciones. Rosas y figuras en topper"
+  },
+  {
+    "categoria": "piso",
+    "titulo": "PISO 03",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/173.png",
+    "gd": "2",
+    "descripcion": "$111 torta 24 34cm de 3 rellenos. Le rinde para 64 porciones. Arreglos artificiales. figuras en topp"
+  },
+  {
+    "categoria": "piso",
+    "titulo": "PISO 04",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/174.png",
+    "gd": "",
+    "descripcion": "$160 torta 18 28 38cm de 3 rellenos. Rinde para 114 porciones. arreglos artificiales"
+  },
+  {
+    "categoria": "piso",
+    "titulo": "PISO 05",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/175.png",
+    "gd": "2",
+    "descripcion": "$111 torta 24 34cm de 3 rellenos. Le rinde para 64 porciones. Arreglos artificiales"
+  },
+  {
+    "categoria": "piso",
+    "titulo": "PISO 06",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/176.png",
+    "gd": "2",
+    "descripcion": "$170 torta 18 28 38cm de 3 rellenos. Rinde para 97 porciones. Arreglos artificiales"
+  },
+  {
+    "categoria": "piso",
+    "titulo": "PISO 07",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/177.png",
+    "gd": "2",
+    "descripcion": "$111 torta 24 34cm de 3 rellenos. Le rinde para 64 porciones. arreglos artificiales"
+  },
+  {
+    "categoria": "piso",
+    "titulo": "PISO 08",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/178.png",
+    "gd": "2",
+    "descripcion": "$111 torta 24 34cm de 3 rellenos. Le rinde para 64 porciones. Arreglos artificiales"
+  },
+  {
+    "categoria": "piso",
+    "titulo": "PISO 09",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/179.png",
+    "gd": "2",
+    "descripcion": "$111 torta 24 34cm de 3 rellenos. Le rinde para 64 porciones. Arreglos artificiales, Figuras en topp"
+  },
+  {
+    "categoria": "piso",
+    "titulo": "PISO 10",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/180.png",
+    "gd": "2",
+    "descripcion": "$111 torta 24 34cm de 3 rellenos. Le rinde para 64 porciones. Arreglos artificiales"
+  },
+  {
+    "categoria": "piso",
+    "titulo": "PISO 11",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/181.png",
+    "gd": "",
+    "descripcion": "$108 torta 24 34cm de 3 rellenos. Le rinde para 77 porciones. Arreglos artificiales"
+  },
+  {
+    "categoria": "piso",
+    "titulo": "PISO 12",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/182.png",
+    "gd": "",
+    "descripcion": "$108 torta 24 34cm de 3 rellenos. Le rinde para 77 porciones. Arreglos artificiales, Figura en toppe"
+  },
+  {
+    "categoria": "piso",
+    "titulo": "PISO 14",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/183.png",
+    "gd": "",
+    "descripcion": "$108 torta 24 34cm de 3 rellenos. Le rinde para 77 porciones. Arreglos y figuras en topper"
+  },
+  {
+    "categoria": "piso",
+    "titulo": "PISO 16",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/184.png",
+    "gd": "",
+    "descripcion": "$108 torta 24 34cm de 3 rellenos. Le rinde para 77 porciones. Arreglos artificiales"
+  },
+  {
+    "categoria": "piso",
+    "titulo": "PISO 18",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/185.png",
+    "gd": "2",
+    "descripcion": "$111 torta 24 34cm de 3 rellenos. Le rinde para 64porc. Arreglos artificiales, Fig en topper"
+  },
+  {
+    "categoria": "piso",
+    "titulo": "PISO 20",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/186.png",
+    "gd": "",
+    "descripcion": "$108 torta 24 34cm de 3 rellenos. Le rinde para 77 porciones. Arreglos artificiales"
+  },
+  {
+    "categoria": "piso",
+    "titulo": "PISO 21",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/187.png",
+    "gd": "",
+    "descripcion": "$108 torta 24 34cm de 3 rellenos. Le rinde para 77 porciones. Arreglos artificiales"
+  },
+  {
+    "categoria": "piso",
+    "titulo": "PISO 22",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/188.png",
+    "gd": "",
+    "descripcion": "$108 torta 24 34cm de 3 rellenos. Le rinde para 77 porciones. Arreglos artificiales. Figura en toppe"
+  },
+  {
+    "categoria": "piso",
+    "titulo": "PISO 23",
+    "icono": "fa-solid fa-graduation-cap",
+    "imagen": "img/189.png",
+    "gd": "2",
+    "descripcion": "$170 torta 18 28 38cm de 3 rellenos. Rinde para 97 porciones.. Arreglos artificiales, figuras en topper"
   }
 ]
