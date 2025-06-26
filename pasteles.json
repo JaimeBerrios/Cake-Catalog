@@ -3085,4 +3085,256 @@
     "gd": "3",
     "descripcion": "Figuras y comentario en topper, miga de la disponible"
   }
+  ,
+  {
+    "categoria": "pasteles de línea",
+    "titulo": "Linea 01",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/384.png",
+    "gd": "2",
+    "descripcion": "ROCETAS DE CREMA"
+  }
+  ,
+  {
+    "categoria": "pasteles de línea",
+    "titulo": "Linea 02",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/385.png",
+    "gd": "2",
+    "descripcion": "Imagen digital"
+  }
+  ,
+  {
+    "categoria": "pasteles de línea",
+    "titulo": "Linea 03",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/386.png",
+    "gd": "2",
+    "descripcion": "BAÑO DE CHOCOLATE"
+  }
+  ,
+  {
+    "categoria": "pasteles de línea",
+    "titulo": "Linea 04",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/387.png",
+    "gd": "2",
+    "descripcion": "Imagen digital"
+  }
+  ,
+  {
+    "categoria": "pasteles de línea",
+    "titulo": "Linea 05",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/388.png",
+    "gd": "2",
+    "descripcion": "Rosas en crema"
+  }
+  ,
+  {
+    "categoria": "pasteles de línea",
+    "titulo": "Linea 06",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/389.png",
+    "gd": "2",
+    "descripcion": "IMAGEN DIGITAL, LATERAL TOPPER"
+  }
+  ,
+  {
+    "categoria": "pasteles de línea",
+    "titulo": "Linea 07",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/390.png",
+    "gd": "2",
+    "descripcion": "IMAGEN DIGITAL"
+  }
+  ,
+  {
+    "categoria": "pasteles de línea",
+    "titulo": "Alegria",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/391.png",
+    "gd": "0",
+    "descripcion": ""
+  }
+  ,
+  {
+    "categoria": "pasteles de línea",
+    "titulo": "Linea 09",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/392.png",
+    "gd": "1",
+    "descripcion": ""
+  }
+  ,
+  {
+    "categoria": "pasteles de línea",
+    "titulo": "Linea 10",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/393.png",
+    "gd": "1",
+    "descripcion": ""
+  }
+  ,
+  {
+    "categoria": "pasteles de línea",
+    "titulo": "Linea 11",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/394.png",
+    "gd": "1",
+    "descripcion": ""
+  }
+  ,
+  {
+    "categoria": "pasteles de línea",
+    "titulo": "Linea 12",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/395.png",
+    "gd": "2",
+    "descripcion": "BAÑADO DE DULCE DE LECHE"
+  }
+  ,
+  {
+    "categoria": "pasteles de línea",
+    "titulo": "Linea 13",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/396.png",
+    "gd": "1",
+    "descripcion": ""
+  }
+  ,
+  {
+    "categoria": "pasteles de línea",
+    "titulo": "Linea 14",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/397.png",
+    "gd": "2",
+    "descripcion": ""
+  }
+  ,
+  {
+    "categoria": "pasteles de línea",
+    "titulo": "Linea 15",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/398.png",
+    "gd": "2",
+    "descripcion": ""
+  }
+  ,
+  {
+    "categoria": "pasteles de línea",
+    "titulo": "Linea 16",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/399.png",
+    "gd": "1",
+    "descripcion": ""
+  }
+  ,
+  {
+    "categoria": "pasteles de línea",
+    "titulo": "Linea 17",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/400.png",
+    "gd": "1",
+    "descripcion": ""
+  }
+  ,
+  {
+    "categoria": "pasteles de línea",
+    "titulo": "Linea 18",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/401.png",
+    "gd": "1",
+    "descripcion": ""
+  }
+  ,
+  {
+    "categoria": "pasteles de línea",
+    "titulo": "Linea 19",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/402.png",
+    "gd": "2",
+    "descripcion": ""
+  }
+  ,
+  {
+    "categoria": "pasteles de línea",
+    "titulo": "Linea 20",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/403.png",
+    "gd": "2",
+    "descripcion": "Imagen digital"
+  }
+  ,
+  {
+    "categoria": "pasteles de línea",
+    "titulo": "Linea 21",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/404.png",
+    "gd": "0",
+    "descripcion": "CHORREADO DE DULCE DE LECHE"
+  }
+  ,
+  {
+    "categoria": "pasteles de línea",
+    "titulo": "Linea 22",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/405.png",
+    "gd": "0",
+    "descripcion": ""
+  }
+  ,
+  {
+    "categoria": "pasteles de línea",
+    "titulo": "Linea 23",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/406.png",
+    "gd": "0",
+    "descripcion": ""
+  }
+  ,
+  {
+    "categoria": "pasteles de línea",
+    "titulo": "Napolitano",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/407.png",
+    "gd": "3",
+    "descripcion": "CHORREADO DE DULCE DE LECHE"
+  }
+  ,
+  {
+    "categoria": "pasteles de línea",
+    "titulo": "Delicia Azul",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/408.jpg",
+    "gd": "1",
+    "descripcion": "Fruta de la disponible, galleta"
+  }
+  ,
+  {
+    "categoria": "pasteles de línea",
+    "titulo": "Chiqui Wow",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/409.png",
+    "gd": "1",
+    "descripcion": "galletas"
+  }
+  ,
+  {
+    "categoria": "pasteles de línea",
+    "titulo": "Remolino Frutal",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/410.jpg",
+    "gd": "2",
+    "descripcion": "Melocotón y Fresas"
+  }
+  ,
+  {
+    "categoria": "pasteles de línea",
+    "titulo": "Stitch de linea",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/411.png",
+    "gd": "3",
+    "descripcion": ""
+  }
 ]
