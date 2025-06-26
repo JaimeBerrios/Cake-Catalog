@@ -2869,4 +2869,121 @@
     "gd": "1",
     "descripcion": ""
   }
+  ,
+  {
+    "categoria": "ocasiones especiales",
+    "titulo": "BEBE DURMIENDO",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/360.JPg",
+    "gd": "2",
+    "descripcion": "Diseno_47"
+  }
+  ,
+  {
+    "categoria": "ocasiones especiales",
+    "titulo": "DIPLOMA",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/361.JPg",
+    "gd": "2",
+    "descripcion": "Diseno_90"
+  }
+  ,
+  {
+    "categoria": "ocasiones especiales",
+    "titulo": "ZAPATITOS",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/362.JPg",
+    "gd": "1",
+    "descripcion": "Diseno_-120"
+  }
+  ,
+  {
+    "categoria": "ocasiones especiales",
+    "titulo": "Zapatitos y Ositos",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/363.png",
+    "gd": "1",
+    "descripcion": ""
+  }
+  ,
+  {
+    "categoria": "ocasiones especiales",
+    "titulo": "Uvas y trigos",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/364.png",
+    "gd": "1",
+    "descripcion": ""
+  }
+  ,
+  {
+    "categoria": "ocasiones especiales",
+    "titulo": "Dulce comunión",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/365.png",
+    "gd": "1",
+    "descripcion": "Figura de dulce"
+  }
+  ,
+  {
+    "categoria": "ocasiones especiales",
+    "titulo": "Dulce Eucaristía",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/366.png",
+    "gd": "1",
+    "descripcion": ""
+  }
+  ,
+  {
+    "categoria": "ocasiones especiales",
+    "titulo": "GRADUACION PERLA",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/367.png",
+    "gd": "1",
+    "descripcion": ""
+  }
+  ,
+  {
+    "categoria": "ocasiones especiales",
+    "titulo": "GRADUACION BIRRETE",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/368.png",
+    "gd": "1",
+    "descripcion": ""
+  }
+  ,
+  {
+    "categoria": "ocasiones especiales",
+    "titulo": "BABY SHOWER 01",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/369.png",
+    "gd": "3",
+    "descripcion": "Figuras punteadas"
+  }
+  ,
+  {
+    "categoria": "ocasiones especiales",
+    "titulo": "FLORK REVELACION",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/370.jpg",
+    "gd": "1",
+    "descripcion": "pancita con crema de color celeste o rosada."
+  }
+  ,
+  {
+    "categoria": "ocasiones especiales",
+    "titulo": "Uvas y trigos",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/371.png",
+    "gd": "1",
+    "descripcion": "uvas de Dulce, figura digital."
+  }
+  ,
+  {
+    "categoria": "ocasiones especiales",
+    "titulo": "Feliz año",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/372.jpg",
+    "gd": "1",
+    "descripcion": "Galleta"
+  }
 ]
