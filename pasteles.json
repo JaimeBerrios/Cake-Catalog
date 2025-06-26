@@ -2743,4 +2743,130 @@
     "gd": "2",
     "descripcion": "Figuras e topper 2 dias de anticipacion" 
   }
+  ,
+  {
+    "categoria": "adulto",
+    "titulo": "Flores 14",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/346.png",
+    "gd": "4",
+    "descripcion": "Flores de crema" 
+  }
+  ,
+  {
+    "categoria": "adulto",
+    "titulo": "Flores y mariposas",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/347.png",
+    "gd": "3",
+    "descripcion": "Mariposas topper" 
+  }
+  ,
+  {
+    "categoria": "adulto",
+    "titulo": "ZODIAC",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/348.png",
+    "gd": "2",
+    "descripcion": "Decoracion en crema" 
+  }
+  ,
+  {
+    "categoria": "adulto",
+    "titulo": "CHOCODELI",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/349.png",
+    "gd": "1",
+    "descripcion": "Chocolates" 
+  }
+  ,
+  {
+    "categoria": "adulto",
+    "titulo": "CORAZON DE ROSAS",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/350.JPg",
+    "gd": "2",
+    "descripcion": "" 
+  }
+  ,
+  {
+    "categoria": "adulto",
+    "titulo": "VIOLETA",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/351.png",
+    "gd": "1",
+    "descripcion": "Rosetas" 
+  }
+  ,
+  {
+    "categoria": "adulto",
+    "titulo": "CORAZON Y ROSAS",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/352.jpg",
+    "gd": "3",
+    "descripcion": "Rosas en crema" 
+  }
+  ,
+  {
+    "categoria": "adulto",
+    "titulo": "bodas 01",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/353.jpg",
+    "gd": "4",
+    "descripcion": "Arreglos artificiales disponibles, figuras en topper, comentario en letra de dulce"
+  }
+  ,
+  {
+    "categoria": "adulto",
+    "titulo": "FRESAS Y CEREZAS",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/354.jpg",
+    "gd": "2",
+    "descripcion": "Fresas"
+  }
+  ,
+  {
+    "categoria": "adulto",
+    "titulo": "ROSALIA",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/355.png",
+    "gd": "4",
+    "descripcion": "Figuras y rosas en topper"
+  }
+  ,
+  {
+    "categoria": "adulto",
+    "titulo": "ORBITA",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/356.png",
+    "gd": "1",
+    "descripcion": ""
+  }
+  ,
+  {
+    "categoria": "adulto",
+    "titulo": "CLÁSICO ENCANTO",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/357.png",
+    "gd": "",
+    "descripcion": ""
+  }
+  ,
+  {
+    "categoria": "adulto",
+    "titulo": "ENCANTO DE MAMÁ",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/358.png",
+    "gd": "1",
+    "descripcion": ""
+  }
+  ,
+  {
+    "categoria": "adulto",
+    "titulo": "AMOR FLORAL",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/359.png",
+    "gd": "1",
+    "descripcion": ""
+  }
 ]
