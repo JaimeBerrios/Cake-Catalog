@@ -2986,4 +2986,103 @@
     "gd": "1",
     "descripcion": "Galleta"
   }
+  ,
+  {
+    "categoria": "genericos",
+    "titulo": "Barbie Cake",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/373.png",
+    "gd": "1",
+    "descripcion": ""
+  }
+  ,
+  {
+    "categoria": "genericos",
+    "titulo": "Globitos",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/374.png",
+    "gd": "1",
+    "descripcion": ""
+  }
+  ,
+  {
+    "categoria": "genericos",
+    "titulo": "Jardin de amor",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/375.png",
+    "gd": "1",
+    "descripcion": ""
+  }
+  ,
+  {
+    "categoria": "genericos",
+    "titulo": "Aurora",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/376.png",
+    "gd": "1",
+    "descripcion": ""
+  }
+  ,
+  {
+    "categoria": "genericos",
+    "titulo": "Girasol",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/377.jpg",
+    "gd": "5",
+    "descripcion": "GIRASOL EN CREMA"
+  }
+  ,
+  {
+    "categoria": "genericos",
+    "titulo": "Maximo",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/378.png",
+    "gd": "1",
+    "descripcion": "Galleta"
+  }
+  ,
+  {
+    "categoria": "genericos",
+    "titulo": "Jardin de amor 02",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/379.png",
+    "gd": "1",
+    "descripcion": ""
+  }
+  ,
+  {
+    "categoria": "genericos",
+    "titulo": "Kuromi Melody",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/380.jpg",
+    "gd": "3",
+    "descripcion": "Tortas 24 28 34cm en forma de corazon disponibles, otro tamaño seria redondo"
+  }
+  ,
+  {
+    "categoria": "genericos",
+    "titulo": "Ilusion",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/381.jpg",
+    "gd": "0",
+    "descripcion": ""
+  }
+  ,
+  {
+    "categoria": "genericos",
+    "titulo": "Choco Bom",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/382.jpg",
+    "gd": "1",
+    "descripcion": ""
+  }
+  ,
+  {
+    "categoria": "genericos",
+    "titulo": "Lilo y Stitch 02",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/383.png",
+    "gd": "3",
+    "descripcion": "Figuras y comentario en topper, miga de la disponible"
+  }
 ]
