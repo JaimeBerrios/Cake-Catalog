@@ -2599,4 +2599,148 @@
     "gd": "2",
     "descripcion": "Imagen tamaño carta, no cubrira todo el fondo" 
   }
+  ,
+  {
+    "categoria": "niña",
+    "titulo": "BARBIE 07",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/327.png",
+    "gd": "2",
+    "descripcion": "Imagen digital tamaño carta" 
+  }
+  ,
+  {
+    "categoria": "niña",
+    "titulo": "BARBIE 08",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/328.png",
+    "gd": "2",
+    "descripcion": "Imagen digital" 
+  }
+  ,
+  {
+    "categoria": "niña",
+    "titulo": "BARBIE 10",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/329.png",
+    "gd": "4",
+    "descripcion": "Imagen digital" 
+  }
+  ,
+  {
+    "categoria": "niña",
+    "titulo": "STITCH 11",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/330.png",
+    "gd": "5",
+    "descripcion": "Figuras topper flores dulce" 
+  }
+  ,
+  {
+    "categoria": "niña",
+    "titulo": "SIRENITA 07",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/331.png",
+    "gd": "4",
+    "descripcion": "Figuras topper" 
+  }
+  ,
+  {
+    "categoria": "niña",
+    "titulo": "SIRENITA 10",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/332.png",
+    "gd": "4",
+    "descripcion": "Figuras en topper" 
+  }
+  ,
+  {
+    "categoria": "niña",
+    "titulo": "SIRENITA 11",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/333.png",
+    "gd": "3",
+    "descripcion": "Figuras en topper" 
+  }
+  ,
+  {
+    "categoria": "niña",
+    "titulo": "STITCH 12",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/334.png",
+    "gd": "3",
+    "descripcion": "Figuras en topper" 
+  }
+  ,
+  {
+    "categoria": "niña",
+    "titulo": "PEACH",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/335.png",
+    "gd": "3",
+    "descripcion": "Corona de dulce" 
+  }
+  ,
+  {
+    "categoria": "niña",
+    "titulo": "COQUETTES 01",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/336.jpg",
+    "gd": "2",
+    "descripcion": "liston del disponible, solo en tamaños 18 24 y 28 tienen que ser altos" 
+  }
+  ,
+  {
+    "categoria": "niña",
+    "titulo": "COQUETTES 02",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/337.jpg",
+    "gd": "3",
+    "descripcion": "solo en tamaños 18 24 y 28 tienen que ser altos" 
+  }
+  ,
+  {
+    "categoria": "niña",
+    "titulo": "COQUETTES 03",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/338.jpg",
+    "gd": "2",
+    "descripcion": "solo en tamaños 18 24 y 28 tienen que ser altos" 
+  }
+  ,
+  {
+    "categoria": "niña",
+    "titulo": "COQUETTES 04",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/339.jpg",
+    "gd": "3",
+    "descripcion": "solo en tamaños 18 24 y 28 tienen que ser altos" 
+  }
+  ,
+  {
+    "categoria": "niña",
+    "titulo": "MOANA FLORES",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/340.png",
+    "gd": "5",
+    "descripcion": "Figuras en topper, flores de azucar" 
+  }
+  ,
+  {
+    "categoria": "niña",
+    "titulo": "PASTEL FROZEN",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/341.png",
+    "gd": "3",
+    "descripcion": "" 
+  }
+  ,
+  {
+    "categoria": "niña",
+    "titulo": "UNICORNIO 03",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/342.jpg",
+    "gd": "2",
+    "descripcion": "Figuras e topper 2 dias de anticipacion" 
+  }
 ]
