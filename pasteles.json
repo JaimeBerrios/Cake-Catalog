@@ -1496,8 +1496,7 @@
     "imagen": "img/188.png",
     "gd": "",
     "descripcion": "$108 torta 24 34cm de 3 rellenos. Le rinde para 77 porciones. Arreglos artificiales. Figura en toppe"
-  }
-  ,
+  },
   {
     "categoria": "piso",
     "titulo": "PISO 23",
@@ -1505,8 +1504,7 @@
     "imagen": "img/189.png",
     "gd": "2",
     "descripcion": "$170 torta 18 28 38cm de 3 rellenos. Rinde para 97 porciones.. Arreglos artificiales, figuras en topper"
-  }
-  ,
+  },
   {
     "categoria": "niño",
     "titulo": "SPIDERMAN 06",
@@ -1514,8 +1512,7 @@
     "imagen": "img/191.png",
     "gd": "3",
     "descripcion": "Figuras seran topper parecidos."
-  }
-  ,
+  },
   {
     "categoria": "niño",
     "titulo": "SPIDERMAN 07",
@@ -1523,8 +1520,7 @@
     "imagen": "img/192.png",
     "gd": "3",
     "descripcion": "Imagen digital tamaño carta, estrellas de dulce."
-  }
-  ,
+  },
   {
     "categoria": "niño",
     "titulo": "SPIDERMAN 08",
@@ -1532,8 +1528,7 @@
     "imagen": "img/193.png",
     "gd": "4",
     "descripcion": "Imagen en gelly"
-  }
-  ,
+  },
   {
     "categoria": "niño",
     "titulo": "SPIDERMAN 11",
@@ -1541,8 +1536,7 @@
     "imagen": "img/194.png",
     "gd": "2",
     "descripcion": "Imagen digital"
-  }
-  ,
+  },
   {
     "categoria": "niño",
     "titulo": "SPIDERMAN 12",
@@ -1550,8 +1544,7 @@
     "imagen": "img/195.png",
     "gd": "1",
     "descripcion": "Araña topper"
-  }
-  ,
+  },
   {
     "categoria": "niño",
     "titulo": "SPIDERMAN 13",
@@ -1559,8 +1552,7 @@
     "imagen": "img/196.png",
     "gd": "3",
     "descripcion": "Figuras topper"
-  }
-  ,
+  },
   {
     "categoria": "niño",
     "titulo": "PAW PATROL 06",
@@ -1568,8 +1560,7 @@
     "imagen": "img/197.png",
     "gd": "2",
     "descripcion": "Imagen tamaño carta"
-  }
-  ,
+  },
   {
     "categoria": "niño",
     "titulo": "PAW PATROL 07",
@@ -1577,8 +1568,7 @@
     "imagen": "img/198.png",
     "gd": "4",
     "descripcion": "Huellas y escudo de dulce, perritos toppe"
-  }
-  ,
+  },
   {
     "categoria": "niño",
     "titulo": "PAW PATROL 08",
@@ -1586,8 +1576,7 @@
     "imagen": "img/199.png",
     "gd": "3",
     "descripcion": "Figuras topper"
-  }
-  ,
+  },
   {
     "categoria": "niño",
     "titulo": "PAW PATROL 09",
@@ -1595,1014 +1584,1019 @@
     "imagen": "img/200.png",
     "gd": "4",
     "descripcion": "Figuras topper"
+  },
+  {
+    "categoria": "niño",
+    "titulo": "PAW PATROL 10",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/201.png",
+    "gd": "4",
+    "descripcion": "Figuras topper"
+  },
+  {
+    "categoria": "niño",
+    "titulo": "PAW PATROL 11",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/202.png",
+    "gd": "4",
+    "descripcion": "Imagen tamaño carta"
+  },
+  {
+    "categoria": "niño",
+    "titulo": "PAW PATROL 12",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/203.png",
+    "gd": "5",
+    "descripcion": "Imagen digital, escudos y huellas topper"
+  },
+  {
+    "categoria": "niño",
+    "titulo": "PAW PATROL 13",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/204.png",
+    "gd": "3",
+    "descripcion": "Figuras digitales"
+  },
+  {
+    "categoria": "niño",
+    "titulo": "PAW PATROL 14",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/205.png",
+    "gd": "3",
+    "descripcion": "Huellas de dulce molde disponible"
+  },
+  {
+    "categoria": "niño",
+    "titulo": "PAW PATROL 15",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/206.png",
+    "gd": "3",
+    "descripcion": "Huellas de dulce molde disponible"
+  },
+  {
+    "categoria": "niño",
+    "titulo": "ZENON 02",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/207.png",
+    "gd": "3",
+    "descripcion": "Figuras topper"
+  },
+  {
+    "categoria": "niño",
+    "titulo": "ZENON 03",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/208.png",
+    "gd": "3",
+    "descripcion": "Figuras topper"
+  },
+  {
+    "categoria": "niño",
+    "titulo": "ZENON 04",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/209.png",
+    "gd": "3",
+    "descripcion": "Figuras topper"
+  },
+  {
+    "categoria": "niño",
+    "titulo": "ZENON 05",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/210.png",
+    "gd": "2",
+    "descripcion": "Imagen tamaño carta"
+  },
+  {
+    "categoria": "niño",
+    "titulo": "ZENON 06",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/211.png",
+    "gd": "3",
+    "descripcion": "Figuras topper"
+  },
+  {
+    "categoria": "niño",
+    "titulo": "ZENON 06",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/212.png",
+    "gd": "3",
+    "descripcion": "Figuras topper"
+  },
+  {
+    "categoria": "niño",
+    "titulo": "ZENON 07",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/213.png",
+    "gd": "3",
+    "descripcion": "Figuras topper"
+  },
+  {
+    "categoria": "niño",
+    "titulo": "ZENON 08",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/214.png",
+    "gd": "3",
+    "descripcion": "Imagen tamaño carta"
+  },
+  {
+    "categoria": "niño",
+    "titulo": "ZENON 09",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/215.png",
+    "gd": "2",
+    "descripcion": "Imagen tamaño carta"
+  },
+  {
+    "categoria": "niño",
+    "titulo": "ZENON 09",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/215.png",
+    "gd": "2",
+    "descripcion": "Imagen tamaño carta"
+  },
+  {
+    "categoria": "niño",
+    "titulo": "ZENON 10",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/216.png",
+    "gd": "3",
+    "descripcion": "Figuras topper tiene que ser torta alta."
+  },
+  {
+    "categoria": "niño",
+    "titulo": "ZENON 12",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/217.png",
+    "gd": "3",
+    "descripcion": "Figuras topper"
+  },
+  {
+    "categoria": "niño",
+    "titulo": "ZENON 13",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/218.png",
+    "gd": "3",
+    "descripcion": "Figuras topper"
+  },
+  {
+    "categoria": "niño",
+    "titulo": "MICKEY 04",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/219.png",
+    "gd": "4",
+    "descripcion": "Imagen digital"
+  },
+  {
+    "categoria": "niño",
+    "titulo": "MICKEY 05",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/220.png",
+    "gd": "4",
+    "descripcion": "Figuras en topper"
+  },
+  {
+    "categoria": "niño",
+    "titulo": "MICKEY 06",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/221.png",
+    "gd": "2",
+    "descripcion": "Imagen digital"
+  },
+  {
+    "categoria": "niño",
+    "titulo": "MICKEY 09",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/222.png",
+    "gd": "2",
+    "descripcion": "Imagen digital"
+  },
+  {
+    "categoria": "niño",
+    "titulo": "BOB 02",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/223.png",
+    "gd": "4",
+    "descripcion": "Figuras en topper"
+  },
+  {
+    "categoria": "niño",
+    "titulo": "BOB 04",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/224.png",
+    "gd": "2",
+    "descripcion": "Laterales color blanco. imagen no cubrirá todo el fondo."
+  },
+  {
+    "categoria": "niño",
+    "titulo": "BOB 05",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/225.png",
+    "gd": "2",
+    "descripcion": "Figuras en topper"
+  },
+  {
+    "categoria": "niño",
+    "titulo": "ONE PIECE 03",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/226.png",
+    "gd": "4",
+    "descripcion": "Figuras en topper"
+  },
+  {
+    "categoria": "niño",
+    "titulo": "ONE PIECE 05",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/227.png",
+    "gd": "4",
+    "descripcion": "Figuras en topper"
+  },
+  {
+    "categoria": "niño",
+    "titulo": "ONE PIECE 06",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/228.png",
+    "gd": "4",
+    "descripcion": "Imagen digital no cubrirá todo el fondo"
+  },
+  {
+    "categoria": "niño",
+    "titulo": "FLASH 01",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/229.png",
+    "gd": "4",
+    "descripcion": "Imagen digital"
+  },
+  {
+    "categoria": "niño",
+    "titulo": "FLASH 02",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/230.png",
+    "gd": "4",
+    "descripcion": "Figuras en topper"
+  },
+  {
+    "categoria": "niño",
+    "titulo": "FLASH 03",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/231.png",
+    "gd": "3",
+    "descripcion": "Figuras en topper"
+  },
+  {
+    "categoria": "niño",
+    "titulo": "FLASH 04",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/232.png",
+    "gd": "4",
+    "descripcion": "Figuras en topper"
+  },
+  {
+    "categoria": "niño",
+    "titulo": "FLASH 09",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/233.png",
+    "gd": "2",
+    "descripcion": "Imagen digital"
+  },
+  {
+    "categoria": "niño",
+    "titulo": "MINIONS 02",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/234.png",
+    "gd": "4",
+    "descripcion": "Figuras en topper"
+  },
+  {
+    "categoria": "niño",
+    "titulo": "MINIONS 04",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/235.png",
+    "gd": "4",
+    "descripcion": "Imagen digital"
+  },
+  {
+    "categoria": "niño",
+    "titulo": "MINIONS 05",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/236.png",
+    "gd": "4",
+    "descripcion": "Imagen digital"
+  },
+  {
+    "categoria": "niño",
+    "titulo": "MINONS 06",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/237.png",
+    "gd": "4",
+    "descripcion": "Imagen digital"
+  },
+  {
+    "categoria": "niño",
+    "titulo": "MINONS 07",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/238.png",
+    "gd": "4",
+    "descripcion": "Figuras en topper"
+  },
+  {
+    "categoria": "niño",
+    "titulo": "MINONS 09",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/239.png",
+    "gd": "4",
+    "descripcion": "Figuras en topper"
+  },
+  {
+    "categoria": "niño",
+    "titulo": "BABY SHARK 01",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/240.png",
+    "gd": "4",
+    "descripcion": "Figuras en topper"
+  },
+  {
+    "categoria": "niño",
+    "titulo": "BABY SHARK 02",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/241.png",
+    "gd": "3",
+    "descripcion": "Figuras en topper"
+  },
+  {
+    "categoria": "niño",
+    "titulo": "BABY SHARK 03",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/242.png",
+    "gd": "3",
+    "descripcion": "Figuras en topper"
+  },
+  {
+    "categoria": "niño",
+    "titulo": "BABY SHARK 04",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/243.png",
+    "gd": "3",
+    "descripcion": "Figuras en topper"
+  },
+  {
+    "categoria": "niño",
+    "titulo": "BABY SHARK 05",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/244.png",
+    "gd": "2",
+    "descripcion": "Imagen tamaño carta"
+  },
+  {
+    "categoria": "niño",
+    "titulo": "BABY SHARK 06",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/245.png",
+    "gd": "4",
+    "descripcion": "Figuras en topper"
+  },
+  {
+    "categoria": "niño",
+    "titulo": "ONE PIECE 07",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/246.png",
+    "gd": "4",
+    "descripcion": "Figuras toppers"
+  },
+  {
+    "categoria": "niño",
+    "titulo": "BOB 08",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/247.png",
+    "gd": "3",
+    "descripcion": "Imagen gelly"
+  },
+  {
+    "categoria": "niño",
+    "titulo": "MARIO 02",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/248.png",
+    "gd": "4",
+    "descripcion": "FIGURA TOPPER"
+  },
+  {
+    "categoria": "niño",
+    "titulo": "BLUEY",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/249.png",
+    "gd": "2",
+    "descripcion": "Imagen digital"
+  },
+  {
+    "categoria": "niño",
+    "titulo": "SUPER MARIO",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/250.png",
+    "gd": "2",
+    "descripcion": "Imagen digital en plaquita de dulce, figuras del lateral en topper"
+  },
+  {
+    "categoria": "niño",
+    "titulo": "PLIM PLIM",
+    "icono": "fa-solid fa-child",
+    "imagen": "img/251.png",
+    "gd": "2",
+    "descripcion": "Imagen digital, decoracion en crema parecidos"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "STITCH 05",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/252.png",
+    "gd": "4",
+    "descripcion": "Figura en topper"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "STITCH 03",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/253.png",
+    "gd": "4",
+    "descripcion": "Figura en plaquita"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "STITCH 04",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/254.png",
+    "gd": "3",
+    "descripcion": "Figura en topper"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "STITCH 06",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/255.png",
+    "gd": "3",
+    "descripcion": "topper parecido"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "STITCH 07",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/256.png",
+    "gd": "3",
+    "descripcion": "Figura en topper"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "STITCH 09",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/257.png",
+    "gd": "4",
+    "descripcion": "Figura en topper"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "SOFIA 06",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/258.png",
+    "gd": "3",
+    "descripcion": "Figura en topper"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "SOFIA 08",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/259.png",
+    "gd": "4",
+    "descripcion": "Figura en topper"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "SOFIA 09",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/260.png",
+    "gd": "4",
+    "descripcion": "Mariposas topper, imagen tamaño carta"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "SOFIA 11",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/261.png",
+    "gd": "3",
+    "descripcion": "Imagen tamaño carta, tiara y corona disponible."
+  },
+  {
+    "categoria": "niña",
+    "titulo": "SOFIA 12",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/262.png",
+    "gd": "3",
+    "descripcion": "Imagen tamaño carta"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "SOFIA 13",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/263.png",
+    "gd": "3",
+    "descripcion": "Imagen tamaño carta,flores de dulce molde disponible."
+  },
+  {
+    "categoria": "niña",
+    "titulo": "SOFIA 14",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/264.png",
+    "gd": "4",
+    "descripcion": "Flores de crema, imagen digital, vestido de crema."
+  },
+  {
+    "categoria": "niña",
+    "titulo": "SOFIA 15",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/265.png",
+    "gd": "3",
+    "descripcion": "Figuras topper"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "SOFIA 16",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/266.png",
+    "gd": "2",
+    "descripcion": "Imagen tamaño carta"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "SOFIA 17",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/267.png",
+    "gd": "4",
+    "descripcion": "Figuras topper"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "MINNIE 02",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/268.png",
+    "gd": "4",
+    "descripcion": "Imagen digital"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "MINNIE 03",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/269.png",
+    "gd": "3",
+    "descripcion": "Figuras de dulce, imagen del lateral digital"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "MINNIE 04",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/270.png",
+    "gd": "4",
+    "descripcion": "Imagen digital, orilla de crema, chonga de dulce"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "MINNIE 05",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/271.png",
+    "gd": "2",
+    "descripcion": "Imagen digital"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "MINNIE 06",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/272.png",
+    "gd": "4",
+    "descripcion": "Imagen digital"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "MINNIE 07",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/273.png",
+    "gd": "4",
+    "descripcion": "Imagen digital, mariposas de dulce"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "MINNIE 08",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/274.png",
+    "gd": "3",
+    "descripcion": "Imagen digital"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "MINNIE 09",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/275.png",
+    "gd": "4",
+    "descripcion": "Imagen de el fondo digital, las demás figuras en topper"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "MINNIE 10",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/276.png",
+    "gd": "3",
+    "descripcion": "Imagen digital"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "MINNIE 11",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/277.png",
+    "gd": "4",
+    "descripcion": "Imagen digital, perlas disponibles"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "MINNIE 13",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/279.png",
+    "gd": "4",
+    "descripcion": "Figuras en topper"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "MINNIE 15",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/281.png",
+    "gd": "3",
+    "descripcion": "Figuras en topper"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "MINNIE 16",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/282.png",
+    "gd": "4",
+    "descripcion": "Imagen digital"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "MINNIE 17",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/283.png",
+    "gd": "2",
+    "descripcion": "Fifuras en dulce"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "MINNIE 18",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/284.png",
+    "gd": "2",
+    "descripcion": "Imagen digital"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "FROZEN 03",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/285.png",
+    "gd": "3",
+    "descripcion": "Imagen digital, florsitas de dulce"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "FROZEN 04",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/286.png",
+    "gd": "3",
+    "descripcion": "Imagen digital"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "ELSA 04",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/287.png",
+    "gd": "2",
+    "descripcion": "Imagen digital"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "ELSA 05",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/288.png",
+    "gd": "4",
+    "descripcion": "Figuras en topper"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "ELSA 02",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/289.png",
+    "gd": "4",
+    "descripcion": "Imagen digital"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "FROZEN 08",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/290.png",
+    "gd": "4",
+    "descripcion": "Figura en topper"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "ELSA 03",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/291.png",
+    "gd": "4",
+    "descripcion": "Imagen digital"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "FROZEN 09",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/292.png",
+    "gd": "4",
+    "descripcion": "Imagen digital"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "FROZEN 10",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/293.png",
+    "gd": "4",
+    "descripcion": "Imagen digital, copos de nieve de dulce"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "FROZEN 11",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/294.png",
+    "gd": "4",
+    "descripcion": "Imagen digital"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "FROZEN 12",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/295.png",
+    "gd": "3",
+    "descripcion": "Imagen digital"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "FROZEN 14",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/296.png",
+    "gd": "2",
+    "descripcion": "Imagen digital"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "FROZEN 05",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/297.png",
+    "gd": "3",
+    "descripcion": "Imagen digital"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "FROZEN 07",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/298.png",
+    "gd": "2",
+    "descripcion": "Imagen digital"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "MOANA 01",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/299.png",
+    "gd": "4",
+    "descripcion": "Figura en topper"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "MOANA 02",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/301.png",
+    "gd": "4",
+    "descripcion": "Imagen digital"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "MOANA 03",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/300.png",
+    "gd": "4",
+    "descripcion": "Imagen digital, flores de dulce"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "MOANA 06",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/302.png",
+    "gd": "2",
+    "descripcion": "Imagen digital, flores de dulce"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "MOANA 07",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/303.png",
+    "gd": "4",
+    "descripcion": "Figura en topper"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "MOANA 09",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/304.png",
+    "gd": "3",
+    "descripcion": "Figura en topper"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "ELSA 06",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/305.png",
+    "gd": "4",
+    "descripcion": "Imagen digital"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "ELSA 07",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/306.png",
+    "gd": "4",
+    "descripcion": "Imagen digital"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "FROZEN 18",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/307.png",
+    "gd": "4",
+    "descripcion": "Imagen digital"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "ELSA 08",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/308.png",
+    "gd": "4",
+    "descripcion": "Imagen digital"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "ELSA 09",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/309.png",
+    "gd": "3",
+    "descripcion": "Imagen digital"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "ELSA 01",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/310.png",
+    "gd": "3",
+    "descripcion": "Imagen digital"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "MOANA 13",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/311.png",
+    "gd": "3",
+    "descripcion": "Flores molde disponible"
+  },
+  {
+    "categoria": "niña",
+    "titulo": "MOANA 14",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/312.png",
+    "gd": "4",
+    "descripcion": "Figuras topper"
   }
-,
-{
-  "categoria": "niño",
-  "titulo": "PAW PATROL 10",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/201.png",
-  "gd": "4",
-  "descripcion": "Figuras topper"
-}
-,
-{
-  "categoria": "niño",
-  "titulo": "PAW PATROL 11",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/202.png",
-  "gd": "4",
-  "descripcion": "Imagen tamaño carta"
-}
-,
-{
-  "categoria": "niño",
-  "titulo": "PAW PATROL 12",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/203.png",
-  "gd": "5",
-  "descripcion": "Imagen digital, escudos y huellas topper"
-}
-,
-{
-  "categoria": "niño",
-  "titulo": "PAW PATROL 13",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/204.png",
-  "gd": "3",
-  "descripcion": "Figuras digitales"
-}
-,
-{
-  "categoria": "niño",
-  "titulo": "PAW PATROL 14",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/205.png",
-  "gd": "3",
-  "descripcion": "Huellas de dulce molde disponible"
-}
-,
-{
-  "categoria": "niño",
-  "titulo": "PAW PATROL 15",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/206.png",
-  "gd": "3",
-  "descripcion": "Huellas de dulce molde disponible"
-}
-,
-{
-  "categoria": "niño",
-  "titulo": "ZENON 02",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/207.png",
-  "gd": "3",
-  "descripcion": "Figuras topper"
-}
-,
-{
-  "categoria": "niño",
-  "titulo": "ZENON 03",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/208.png",
-  "gd": "3",
-  "descripcion": "Figuras topper"
-}
-,
-{
-  "categoria": "niño",
-  "titulo": "ZENON 04",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/209.png",
-  "gd": "3",
-  "descripcion": "Figuras topper"
-}
-,
-{
-  "categoria": "niño",
-  "titulo": "ZENON 05",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/210.png",
-  "gd": "2",
-  "descripcion": "Imagen tamaño carta"
-}
-,
-{
-  "categoria": "niño",
-  "titulo": "ZENON 06",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/211.png",
-  "gd": "3",
-  "descripcion": "Figuras topper"
-}
-,
-{
-  "categoria": "niño",
-  "titulo": "ZENON 06",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/212.png",
-  "gd": "3",
-  "descripcion": "Figuras topper"
-}
-,
-{
-  "categoria": "niño",
-  "titulo": "ZENON 07",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/213.png",
-  "gd": "3",
-  "descripcion": "Figuras topper"
-}
-,
-{
-  "categoria": "niño",
-  "titulo": "ZENON 08",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/214.png",
-  "gd": "3",
-  "descripcion": "Imagen tamaño carta"
-}
-,
-{
-  "categoria": "niño",
-  "titulo": "ZENON 09",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/215.png",
-  "gd": "2",
-  "descripcion": "Imagen tamaño carta"
-}
-,
-{
-  "categoria": "niño",
-  "titulo": "ZENON 09",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/215.png",
-  "gd": "2",
-  "descripcion": "Imagen tamaño carta"
-}
-,
-{
-  "categoria": "niño",
-  "titulo": "ZENON 10",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/216.png",
-  "gd": "3",
-  "descripcion": "Figuras topper tiene que ser torta alta."
-}
-,
-{
-  "categoria": "niño",
-  "titulo": "ZENON 12",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/217.png",
-  "gd": "3",
-  "descripcion": "Figuras topper"
-}
-,
-{
-  "categoria": "niño",
-  "titulo": "ZENON 13",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/218.png",
-  "gd": "3",
-  "descripcion": "Figuras topper"
-}
-,
-{
-  "categoria": "niño",
-  "titulo": "MICKEY 04",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/219.png",
-  "gd": "4",
-  "descripcion": "Imagen digital"
-}
-,
-{
-  "categoria": "niño",
-  "titulo": "MICKEY 05",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/220.png",
-  "gd": "4",
-  "descripcion": "Figuras en topper"
-}
-,
-{
-  "categoria": "niño",
-  "titulo": "MICKEY 06",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/221.png",
-  "gd": "2",
-  "descripcion": "Imagen digital"
-}
-,
-{
-  "categoria": "niño",
-  "titulo": "MICKEY 09",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/222.png",
-  "gd": "2",
-  "descripcion": "Imagen digital"
-}
-,
-{
-  "categoria": "niño",
-  "titulo": "BOB 02",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/223.png",
-  "gd": "4",
-  "descripcion": "Figuras en topper"
-}
-,
-{
-  "categoria": "niño",
-  "titulo": "BOB 04",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/224.png",
-  "gd": "2",
-  "descripcion": "Laterales color blanco. imagen no cubrirá todo el fondo."
-}
-,
-{
-  "categoria": "niño",
-  "titulo": "BOB 05",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/225.png",
-  "gd": "2",
-  "descripcion": "Figuras en topper"
-}
-,
-{
-  "categoria": "niño",
-  "titulo": "ONE PIECE 03",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/226.png",
-  "gd": "4",
-  "descripcion": "Figuras en topper"
-}
-,
-{
-  "categoria": "niño",
-  "titulo": "ONE PIECE 05",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/227.png",
-  "gd": "4",
-  "descripcion": "Figuras en topper"
-}
-,
-{
-  "categoria": "niño",
-  "titulo": "ONE PIECE 06",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/228.png",
-  "gd": "4",
-  "descripcion": "Imagen digital no cubrirá todo el fondo"
-}
-,
-{
-  "categoria": "niño",
-  "titulo": "FLASH 01",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/229.png",
-  "gd": "4",
-  "descripcion": "Imagen digital"
-}
-,
-{
-  "categoria": "niño",
-  "titulo": "FLASH 02",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/230.png",
-  "gd": "4",
-  "descripcion": "Figuras en topper"
-}
-,
-{
-  "categoria": "niño",
-  "titulo": "FLASH 03",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/231.png",
-  "gd": "3",
-  "descripcion": "Figuras en topper"
-}
-,
-{
-  "categoria": "niño",
-  "titulo": "FLASH 04",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/232.png",
-  "gd": "4",
-  "descripcion": "Figuras en topper"
-}
-,
-{
-  "categoria": "niño",
-  "titulo": "FLASH 09",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/233.png",
-  "gd": "2",
-  "descripcion": "Imagen digital"
-}
-,
-{
-  "categoria": "niño",
-  "titulo": "MINIONS 02",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/234.png",
-  "gd": "4",
-  "descripcion": "Figuras en topper"
-}
-,
-{
-  "categoria": "niño",
-  "titulo": "MINIONS 04",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/235.png",
-  "gd": "4",
-  "descripcion": "Imagen digital"
-}
-,
-{
-  "categoria": "niño",
-  "titulo": "MINIONS 05",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/236.png",
-  "gd": "4",
-  "descripcion": "Imagen digital"
-}
-,
-{
-  "categoria": "niño",
-  "titulo": "MINONS 06",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/237.png",
-  "gd": "4",
-  "descripcion": "Imagen digital"
-}
-,
-{
-  "categoria": "niño",
-  "titulo": "MINONS 07",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/238.png",
-  "gd": "4",
-  "descripcion": "Figuras en topper"
-}
-,
-{
-  "categoria": "niño",
-  "titulo": "MINONS 09",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/239.png",
-  "gd": "4",
-  "descripcion": "Figuras en topper"
-}
-,
-{
-  "categoria": "niño",
-  "titulo": "BABY SHARK 01",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/240.png",
-  "gd": "4",
-  "descripcion": "Figuras en topper"
-}
-,
-{
-  "categoria": "niño",
-  "titulo": "BABY SHARK 02",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/241.png",
-  "gd": "3",
-  "descripcion": "Figuras en topper"
-}
-,
-{
-  "categoria": "niño",
-  "titulo": "BABY SHARK 03",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/242.png",
-  "gd": "3",
-  "descripcion": "Figuras en topper"
-}
-,
-{
-  "categoria": "niño",
-  "titulo": "BABY SHARK 04",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/243.png",
-  "gd": "3",
-  "descripcion": "Figuras en topper"
-}
-,
-{
-  "categoria": "niño",
-  "titulo": "BABY SHARK 05",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/244.png",
-  "gd": "2",
-  "descripcion": "Imagen tamaño carta"
-}
-,
-{
-  "categoria": "niño",
-  "titulo": "BABY SHARK 06",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/245.png",
-  "gd": "4",
-  "descripcion": "Figuras en topper"
-}
-,
-{
-  "categoria": "niño",
-  "titulo": "ONE PIECE 07",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/246.png",
-  "gd": "4",
-  "descripcion": "Figuras toppers"
-}
-,
-{
-  "categoria": "niño",
-  "titulo": "BOB 08",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/247.png",
-  "gd": "3",
-  "descripcion": "Imagen gelly"
-}
-,
-{
-  "categoria": "niño",
-  "titulo": "MARIO 02",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/248.png",
-  "gd": "4",
-  "descripcion": "FIGURA TOPPER"
-}
-,
-{
-  "categoria": "niño",
-  "titulo": "BLUEY",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/249.png",
-  "gd": "2",
-  "descripcion": "Imagen digital"
-}
-,
-{
-  "categoria": "niño",
-  "titulo": "SUPER MARIO",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/250.png",
-  "gd": "2",
-  "descripcion": "Imagen digital en plaquita de dulce, figuras del lateral en topper"
-}
-,
-{
-  "categoria": "niño",
-  "titulo": "PLIM PLIM",
-  "icono": "fa-solid fa-child",
-  "imagen": "img/251.png",
-  "gd": "2",
-  "descripcion": "Imagen digital, decoracion en crema parecidos"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "STITCH 05",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/252.png",
-  "gd": "4",
-  "descripcion": "Figura en topper"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "STITCH 03",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/253.png",
-  "gd": "4",
-  "descripcion": "Figura en plaquita"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "STITCH 04",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/254.png",
-  "gd": "3",
-  "descripcion": "Figura en topper"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "STITCH 06",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/255.png",
-  "gd": "3",
-  "descripcion": "topper parecido"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "STITCH 07",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/256.png",
-  "gd": "3",
-  "descripcion": "Figura en topper"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "STITCH 09",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/257.png",
-  "gd": "4",
-  "descripcion": "Figura en topper"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "SOFIA 06",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/258.png",
-  "gd": "3",
-  "descripcion": "Figura en topper"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "SOFIA 08",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/259.png",
-  "gd": "4",
-  "descripcion": "Figura en topper"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "SOFIA 09",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/260.png",
-  "gd": "4",
-  "descripcion": "Mariposas topper, imagen tamaño carta"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "SOFIA 11",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/261.png",
-  "gd": "3",
-  "descripcion": "Imagen tamaño carta, tiara y corona disponible."
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "SOFIA 12",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/262.png",
-  "gd": "3",
-  "descripcion": "Imagen tamaño carta"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "SOFIA 13",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/263.png",
-  "gd": "3",
-  "descripcion": "Imagen tamaño carta,flores de dulce molde disponible."
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "SOFIA 14",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/264.png",
-  "gd": "4",
-  "descripcion": "Flores de crema, imagen digital, vestido de crema."
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "SOFIA 15",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/265.png",
-  "gd": "3",
-  "descripcion": "Figuras topper"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "SOFIA 16",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/266.png",
-  "gd": "2",
-  "descripcion": "Imagen tamaño carta"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "SOFIA 17",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/267.png",
-  "gd": "4",
-  "descripcion": "Figuras topper"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "MINNIE 02",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/268.png",
-  "gd": "4",
-  "descripcion": "Imagen digital"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "MINNIE 03",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/269.png",
-  "gd": "3",
-  "descripcion": "Figuras de dulce, imagen del lateral digital"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "MINNIE 04",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/270.png",
-  "gd": "4",
-  "descripcion": "Imagen digital, orilla de crema, chonga de dulce"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "MINNIE 05",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/271.png",
-  "gd": "2",
-  "descripcion": "Imagen digital"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "MINNIE 06",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/272.png",
-  "gd": "4",
-  "descripcion": "Imagen digital"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "MINNIE 07",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/273.png",
-  "gd": "4",
-  "descripcion": "Imagen digital, mariposas de dulce"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "MINNIE 08",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/274.png",
-  "gd": "3",
-  "descripcion": "Imagen digital"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "MINNIE 09",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/275.png",
-  "gd": "4",
-  "descripcion": "Imagen de el fondo digital, las demás figuras en topper"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "MINNIE 10",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/276.png",
-  "gd": "3",
-  "descripcion": "Imagen digital"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "MINNIE 11",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/277.png",
-  "gd": "4",
-  "descripcion": "Imagen digital, perlas disponibles"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "MINNIE 13",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/279.png",
-  "gd": "4",
-  "descripcion": "Figuras en topper"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "MINNIE 15",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/281.png",
-  "gd": "3",
-  "descripcion": "Figuras en topper"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "MINNIE 16",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/282.png",
-  "gd": "4",
-  "descripcion": "Imagen digital"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "MINNIE 17",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/283.png",
-  "gd": "2",
-  "descripcion": "Fifuras en dulce"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "MINNIE 18",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/284.png",
-  "gd": "2",
-  "descripcion": "Imagen digital"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "FROZEN 03",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/285.png",
-  "gd": "3",
-  "descripcion": "Imagen digital, florsitas de dulce"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "FROZEN 04",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/286.png",
-  "gd": "3",
-  "descripcion": "Imagen digital"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "ELSA 04",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/287.png",
-  "gd": "2",
-  "descripcion": "Imagen digital"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "ELSA 05",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/288.png",
-  "gd": "4",
-  "descripcion": "Figuras en topper"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "ELSA 02",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/289.png",
-  "gd": "4",
-  "descripcion": "Imagen digital"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "FROZEN 08",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/290.png",
-  "gd": "4",
-  "descripcion": "Figura en topper"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "ELSA 03",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/291.png",
-  "gd": "4",
-  "descripcion": "Imagen digital"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "FROZEN 09",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/292.png",
-  "gd": "4",
-  "descripcion": "Imagen digital"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "FROZEN 10",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/293.png",
-  "gd": "4",
-  "descripcion": "Imagen digital, copos de nieve de dulce"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "FROZEN 11",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/294.png",
-  "gd": "4",
-  "descripcion": "Imagen digital"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "FROZEN 12",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/295.png",
-  "gd": "3",
-  "descripcion": "Imagen digital"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "FROZEN 14",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/296.png",
-  "gd": "2",
-  "descripcion": "Imagen digital"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "FROZEN 05",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/297.png",
-  "gd": "3",
-  "descripcion": "Imagen digital"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "FROZEN 07",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/298.png",
-  "gd": "2",
-  "descripcion": "Imagen digital"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "MOANA 01",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/299.png",
-  "gd": "4",
-  "descripcion": "Figura en topper"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "MOANA 02",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/301.png",
-  "gd": "4",
-  "descripcion": "Imagen digital"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "MOANA 03",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/300.png",
-  "gd": "4",
-  "descripcion": "Imagen digital, flores de dulce"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "MOANA 06",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/302.png",
-  "gd": "2",
-  "descripcion": "Imagen digital, flores de dulce"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "MOANA 07",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/303.png",
-  "gd": "4",
-  "descripcion": "Figura en topper"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "MOANA 09",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/304.png",
-  "gd": "3",
-  "descripcion": "Figura en topper"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "ELSA 06",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/305.png",
-  "gd": "4",
-  "descripcion": "Imagen digital"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "ELSA 07",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/306.png",
-  "gd": "4",
-  "descripcion": "Imagen digital"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "FROZEN 18",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/307.png",
-  "gd": "4",
-  "descripcion": "Imagen digital"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "ELSA 08",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/308.png",
-  "gd": "4",
-  "descripcion": "Imagen digital"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "ELSA 09",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/309.png",
-  "gd": "3",
-  "descripcion": "Imagen digital"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "ELSA 01",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/310.png",
-  "gd": "3",
-  "descripcion": "Imagen digital"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "MOANA 13",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/311.png",
-  "gd": "3",
-  "descripcion": "Flores molde disponible"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "MOANA 14",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/312.png",
-  "gd": "4",
-  "descripcion": "Figuras topper"
-}
-,
-{
-  "categoria": "niña",
-  "titulo": "MOANA 15",
-  "icono": "fa-solid fa-child-dress",
-  "imagen": "img/313.png",
-  "gd": "3",
-  "descripcion": "Figuras de dulce molde disponible"
-}
-
+  ,
+  {
+    "categoria": "niña",
+    "titulo": "MOANA 15",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/313.png",
+    "gd": "3",
+    "descripcion": "Figuras de dulce molde disponible"
+  }
+  ,
+  {
+    "categoria": "niña",
+    "titulo": "MOANA 16",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/314.png",
+    "gd": "5",
+    "descripcion": "Imagen redondo tamaño carta"
+  }
+  ,
+  {
+    "categoria": "niña",
+    "titulo": "MERLINA 01",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/315.png",
+    "gd": "4",
+    "descripcion": "Figuras en topper"
+  }
+  ,
+  {
+    "categoria": "niña",
+    "titulo": "HELLO KITTY 01",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/316.png",
+    "gd": "2",
+    "descripcion": "Figuras en topper"
+  }
+  ,
+  {
+    "categoria": "niña",
+    "titulo": "HELLO KITTY 03",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/317.png",
+    "gd": "2",
+    "descripcion": "Imagen digital"
+  }
+  ,
+  {
+    "categoria": "niña",
+    "titulo": "HELLO KITTY 04",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/318.png",
+    "gd": "3",
+    "descripcion": "Imagen digital, perlas de las disponibles"
+  }
+  ,
+  {
+    "categoria": "niña",
+    "titulo": "HELLO KITTY 05",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/319.png",
+    "gd": "4",
+    "descripcion": "Figuras en topper"
+  }
+  ,
+  {
+    "categoria": "niña",
+    "titulo": "HELLO KITTY 06",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/320.png",
+    "gd": "2",
+    "descripcion": "Imagen digital"
+  }
+  ,
+  {
+    "categoria": "niña",
+    "titulo": "HELLO KITTY 07",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/321.png",
+    "gd": "2",
+    "descripcion": "Imagen digital"
+  }
+  ,
+  {
+    "categoria": "niña",
+    "titulo": "HELLO KITTY 09",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/322.png",
+    "gd": "2",
+    "descripcion": "Imagen digital, no cubrirá todo el fondo"
+  }
+  ,
+  {
+    "categoria": "niña",
+    "titulo": "BARBIE 02",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/323.png",
+    "gd": "4",
+    "descripcion": "FIGURAS EN TOPPER" 
+  }
+  ,
+  {
+    "categoria": "niña",
+    "titulo": "BARBIE 03",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/324.png",
+    "gd": "4",
+    "descripcion": "FIGURAS EN TOPPER" 
+  }
+  ,
+  {
+    "categoria": "niña",
+    "titulo": "BARBIE 04",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/325.png",
+    "gd": "3",
+    "descripcion": "FIGURAS EN TOPPER, PERLAS DE LAS DISPONIBLES" 
+  }
+  ,
+  {
+    "categoria": "niña",
+    "titulo": "BARBIE 05",
+    "icono": "fa-solid fa-child-dress",
+    "imagen": "img/326.png",
+    "gd": "2",
+    "descripcion": "Imagen tamaño carta, no cubrira todo el fondo" 
+  }
 ]
