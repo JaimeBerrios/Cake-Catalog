@@ -2472,8 +2472,7 @@
     "imagen": "img/312.png",
     "gd": "4",
     "descripcion": "Figuras topper"
-  }
-  ,
+  },
   {
     "categoria": "niña",
     "titulo": "MOANA 15",
@@ -2481,8 +2480,7 @@
     "imagen": "img/313.png",
     "gd": "3",
     "descripcion": "Figuras de dulce molde disponible"
-  }
-  ,
+  },
   {
     "categoria": "niña",
     "titulo": "MOANA 16",
@@ -2490,8 +2488,7 @@
     "imagen": "img/314.png",
     "gd": "5",
     "descripcion": "Imagen redondo tamaño carta"
-  }
-  ,
+  },
   {
     "categoria": "niña",
     "titulo": "MERLINA 01",
@@ -2499,8 +2496,7 @@
     "imagen": "img/315.png",
     "gd": "4",
     "descripcion": "Figuras en topper"
-  }
-  ,
+  },
   {
     "categoria": "niña",
     "titulo": "HELLO KITTY 01",
@@ -2508,8 +2504,7 @@
     "imagen": "img/316.png",
     "gd": "2",
     "descripcion": "Figuras en topper"
-  }
-  ,
+  },
   {
     "categoria": "niña",
     "titulo": "HELLO KITTY 03",
@@ -2517,8 +2512,7 @@
     "imagen": "img/317.png",
     "gd": "2",
     "descripcion": "Imagen digital"
-  }
-  ,
+  },
   {
     "categoria": "niña",
     "titulo": "HELLO KITTY 04",
@@ -2526,8 +2520,7 @@
     "imagen": "img/318.png",
     "gd": "3",
     "descripcion": "Imagen digital, perlas de las disponibles"
-  }
-  ,
+  },
   {
     "categoria": "niña",
     "titulo": "HELLO KITTY 05",
@@ -2535,8 +2528,7 @@
     "imagen": "img/319.png",
     "gd": "4",
     "descripcion": "Figuras en topper"
-  }
-  ,
+  },
   {
     "categoria": "niña",
     "titulo": "HELLO KITTY 06",
@@ -2544,8 +2536,7 @@
     "imagen": "img/320.png",
     "gd": "2",
     "descripcion": "Imagen digital"
-  }
-  ,
+  },
   {
     "categoria": "niña",
     "titulo": "HELLO KITTY 07",
@@ -2553,8 +2544,7 @@
     "imagen": "img/321.png",
     "gd": "2",
     "descripcion": "Imagen digital"
-  }
-  ,
+  },
   {
     "categoria": "niña",
     "titulo": "HELLO KITTY 09",
@@ -2562,251 +2552,223 @@
     "imagen": "img/322.png",
     "gd": "2",
     "descripcion": "Imagen digital, no cubrirá todo el fondo"
-  }
-  ,
+  },
   {
     "categoria": "niña",
     "titulo": "BARBIE 02",
     "icono": "fa-solid fa-child-dress",
     "imagen": "img/323.png",
     "gd": "4",
-    "descripcion": "FIGURAS EN TOPPER" 
-  }
-  ,
+    "descripcion": "FIGURAS EN TOPPER"
+  },
   {
     "categoria": "niña",
     "titulo": "BARBIE 03",
     "icono": "fa-solid fa-child-dress",
     "imagen": "img/324.png",
     "gd": "4",
-    "descripcion": "FIGURAS EN TOPPER" 
-  }
-  ,
+    "descripcion": "FIGURAS EN TOPPER"
+  },
   {
     "categoria": "niña",
     "titulo": "BARBIE 04",
     "icono": "fa-solid fa-child-dress",
     "imagen": "img/325.png",
     "gd": "3",
-    "descripcion": "FIGURAS EN TOPPER, PERLAS DE LAS DISPONIBLES" 
-  }
-  ,
+    "descripcion": "FIGURAS EN TOPPER, PERLAS DE LAS DISPONIBLES"
+  },
   {
     "categoria": "niña",
     "titulo": "BARBIE 05",
     "icono": "fa-solid fa-child-dress",
     "imagen": "img/326.png",
     "gd": "2",
-    "descripcion": "Imagen tamaño carta, no cubrira todo el fondo" 
-  }
-  ,
+    "descripcion": "Imagen tamaño carta, no cubrira todo el fondo"
+  },
   {
     "categoria": "niña",
     "titulo": "BARBIE 07",
     "icono": "fa-solid fa-child-dress",
     "imagen": "img/327.png",
     "gd": "2",
-    "descripcion": "Imagen digital tamaño carta" 
-  }
-  ,
+    "descripcion": "Imagen digital tamaño carta"
+  },
   {
     "categoria": "niña",
     "titulo": "BARBIE 08",
     "icono": "fa-solid fa-child-dress",
     "imagen": "img/328.png",
     "gd": "2",
-    "descripcion": "Imagen digital" 
-  }
-  ,
+    "descripcion": "Imagen digital"
+  },
   {
     "categoria": "niña",
     "titulo": "BARBIE 10",
     "icono": "fa-solid fa-child-dress",
     "imagen": "img/329.png",
     "gd": "4",
-    "descripcion": "Imagen digital" 
-  }
-  ,
+    "descripcion": "Imagen digital"
+  },
   {
     "categoria": "niña",
     "titulo": "STITCH 11",
     "icono": "fa-solid fa-child-dress",
     "imagen": "img/330.png",
     "gd": "5",
-    "descripcion": "Figuras topper flores dulce" 
-  }
-  ,
+    "descripcion": "Figuras topper flores dulce"
+  },
   {
     "categoria": "niña",
     "titulo": "SIRENITA 07",
     "icono": "fa-solid fa-child-dress",
     "imagen": "img/331.png",
     "gd": "4",
-    "descripcion": "Figuras topper" 
-  }
-  ,
+    "descripcion": "Figuras topper"
+  },
   {
     "categoria": "niña",
     "titulo": "SIRENITA 10",
     "icono": "fa-solid fa-child-dress",
     "imagen": "img/332.png",
     "gd": "4",
-    "descripcion": "Figuras en topper" 
-  }
-  ,
+    "descripcion": "Figuras en topper"
+  },
   {
     "categoria": "niña",
     "titulo": "SIRENITA 11",
     "icono": "fa-solid fa-child-dress",
     "imagen": "img/333.png",
     "gd": "3",
-    "descripcion": "Figuras en topper" 
-  }
-  ,
+    "descripcion": "Figuras en topper"
+  },
   {
     "categoria": "niña",
     "titulo": "STITCH 12",
     "icono": "fa-solid fa-child-dress",
     "imagen": "img/334.png",
     "gd": "3",
-    "descripcion": "Figuras en topper" 
-  }
-  ,
+    "descripcion": "Figuras en topper"
+  },
   {
     "categoria": "niña",
     "titulo": "PEACH",
     "icono": "fa-solid fa-child-dress",
     "imagen": "img/335.png",
     "gd": "3",
-    "descripcion": "Corona de dulce" 
-  }
-  ,
+    "descripcion": "Corona de dulce"
+  },
   {
     "categoria": "niña",
     "titulo": "COQUETTES 01",
     "icono": "fa-solid fa-child-dress",
     "imagen": "img/336.jpg",
     "gd": "2",
-    "descripcion": "liston del disponible, solo en tamaños 18 24 y 28 tienen que ser altos" 
-  }
-  ,
+    "descripcion": "liston del disponible, solo en tamaños 18 24 y 28 tienen que ser altos"
+  },
   {
     "categoria": "niña",
     "titulo": "COQUETTES 02",
     "icono": "fa-solid fa-child-dress",
     "imagen": "img/337.jpg",
     "gd": "3",
-    "descripcion": "solo en tamaños 18 24 y 28 tienen que ser altos" 
-  }
-  ,
+    "descripcion": "solo en tamaños 18 24 y 28 tienen que ser altos"
+  },
   {
     "categoria": "niña",
     "titulo": "COQUETTES 03",
     "icono": "fa-solid fa-child-dress",
     "imagen": "img/338.jpg",
     "gd": "2",
-    "descripcion": "solo en tamaños 18 24 y 28 tienen que ser altos" 
-  }
-  ,
+    "descripcion": "solo en tamaños 18 24 y 28 tienen que ser altos"
+  },
   {
     "categoria": "niña",
     "titulo": "COQUETTES 04",
     "icono": "fa-solid fa-child-dress",
     "imagen": "img/339.jpg",
     "gd": "3",
-    "descripcion": "solo en tamaños 18 24 y 28 tienen que ser altos" 
-  }
-  ,
+    "descripcion": "solo en tamaños 18 24 y 28 tienen que ser altos"
+  },
   {
     "categoria": "niña",
     "titulo": "MOANA FLORES",
     "icono": "fa-solid fa-child-dress",
     "imagen": "img/340.png",
     "gd": "5",
-    "descripcion": "Figuras en topper, flores de azucar" 
-  }
-  ,
+    "descripcion": "Figuras en topper, flores de azucar"
+  },
   {
     "categoria": "niña",
     "titulo": "PASTEL FROZEN",
     "icono": "fa-solid fa-child-dress",
     "imagen": "img/341.png",
     "gd": "3",
-    "descripcion": "" 
-  }
-  ,
+    "descripcion": ""
+  },
   {
     "categoria": "niña",
     "titulo": "UNICORNIO 03",
     "icono": "fa-solid fa-child-dress",
     "imagen": "img/342.jpg",
     "gd": "2",
-    "descripcion": "Figuras e topper 2 dias de anticipacion" 
-  }
-  ,
+    "descripcion": "Figuras e topper 2 dias de anticipacion"
+  },
   {
     "categoria": "adulto",
     "titulo": "Flores 14",
     "icono": "fa-solid fa-user",
     "imagen": "img/346.png",
     "gd": "4",
-    "descripcion": "Flores de crema" 
-  }
-  ,
+    "descripcion": "Flores de crema"
+  },
   {
     "categoria": "adulto",
     "titulo": "Flores y mariposas",
     "icono": "fa-solid fa-user",
     "imagen": "img/347.png",
     "gd": "3",
-    "descripcion": "Mariposas topper" 
-  }
-  ,
+    "descripcion": "Mariposas topper"
+  },
   {
     "categoria": "adulto",
     "titulo": "ZODIAC",
     "icono": "fa-solid fa-user",
     "imagen": "img/348.png",
     "gd": "2",
-    "descripcion": "Decoracion en crema" 
-  }
-  ,
+    "descripcion": "Decoracion en crema"
+  },
   {
     "categoria": "adulto",
     "titulo": "CHOCODELI",
     "icono": "fa-solid fa-user",
     "imagen": "img/349.png",
     "gd": "1",
-    "descripcion": "Chocolates" 
-  }
-  ,
+    "descripcion": "Chocolates"
+  },
   {
     "categoria": "adulto",
     "titulo": "CORAZON DE ROSAS",
     "icono": "fa-solid fa-user",
     "imagen": "img/350.jpg",
     "gd": "2",
-    "descripcion": "" 
-  }
-  ,
+    "descripcion": ""
+  },
   {
     "categoria": "adulto",
     "titulo": "VIOLETA",
     "icono": "fa-solid fa-user",
     "imagen": "img/351.png",
     "gd": "1",
-    "descripcion": "Rosetas" 
-  }
-  ,
+    "descripcion": "Rosetas"
+  },
   {
     "categoria": "adulto",
     "titulo": "CORAZON Y ROSAS",
     "icono": "fa-solid fa-user",
     "imagen": "img/352.jpg",
     "gd": "3",
-    "descripcion": "Rosas en crema" 
-  }
-  ,
+    "descripcion": "Rosas en crema"
+  },
   {
     "categoria": "adulto",
     "titulo": "bodas 01",
@@ -2814,8 +2776,7 @@
     "imagen": "img/353.jpg",
     "gd": "4",
     "descripcion": "Arreglos artificiales disponibles, figuras en topper, comentario en letra de dulce"
-  }
-  ,
+  },
   {
     "categoria": "adulto",
     "titulo": "FRESAS Y CEREZAS",
@@ -2823,8 +2784,7 @@
     "imagen": "img/354.jpg",
     "gd": "2",
     "descripcion": "Fresas"
-  }
-  ,
+  },
   {
     "categoria": "adulto",
     "titulo": "ROSALIA",
@@ -2832,8 +2792,7 @@
     "imagen": "img/355.png",
     "gd": "4",
     "descripcion": "Figuras y rosas en topper"
-  }
-  ,
+  },
   {
     "categoria": "adulto",
     "titulo": "ORBITA",
@@ -2841,8 +2800,7 @@
     "imagen": "img/356.png",
     "gd": "1",
     "descripcion": ""
-  }
-  ,
+  },
   {
     "categoria": "adulto",
     "titulo": "CLÁSICO ENCANTO",
@@ -2850,8 +2808,7 @@
     "imagen": "img/357.png",
     "gd": "",
     "descripcion": ""
-  }
-  ,
+  },
   {
     "categoria": "adulto",
     "titulo": "ENCANTO DE MAMÁ",
@@ -2859,8 +2816,7 @@
     "imagen": "img/358.png",
     "gd": "1",
     "descripcion": ""
-  }
-  ,
+  },
   {
     "categoria": "adulto",
     "titulo": "AMOR FLORAL",
@@ -2868,8 +2824,7 @@
     "imagen": "img/359.png",
     "gd": "1",
     "descripcion": ""
-  }
-  ,
+  },
   {
     "categoria": "ocasiones especiales",
     "titulo": "BEBE DURMIENDO",
@@ -2877,8 +2832,7 @@
     "imagen": "img/360.jpg",
     "gd": "2",
     "descripcion": "Diseno_47"
-  }
-  ,
+  },
   {
     "categoria": "ocasiones especiales",
     "titulo": "DIPLOMA",
@@ -2886,8 +2840,7 @@
     "imagen": "img/361.jpg",
     "gd": "2",
     "descripcion": "Diseno_90"
-  }
-  ,
+  },
   {
     "categoria": "ocasiones especiales",
     "titulo": "ZAPATITOS",
@@ -2895,8 +2848,7 @@
     "imagen": "img/362.jpg",
     "gd": "1",
     "descripcion": "Diseno_-120"
-  }
-  ,
+  },
   {
     "categoria": "ocasiones especiales",
     "titulo": "Zapatitos y Ositos",
@@ -2904,8 +2856,7 @@
     "imagen": "img/363.png",
     "gd": "1",
     "descripcion": ""
-  }
-  ,
+  },
   {
     "categoria": "ocasiones especiales",
     "titulo": "Uvas y trigos",
@@ -2913,8 +2864,7 @@
     "imagen": "img/364.png",
     "gd": "1",
     "descripcion": ""
-  }
-  ,
+  },
   {
     "categoria": "ocasiones especiales",
     "titulo": "Dulce comunión",
@@ -2922,8 +2872,7 @@
     "imagen": "img/365.png",
     "gd": "1",
     "descripcion": "Figura de dulce"
-  }
-  ,
+  },
   {
     "categoria": "ocasiones especiales",
     "titulo": "Dulce Eucaristía",
@@ -2931,8 +2880,7 @@
     "imagen": "img/366.png",
     "gd": "1",
     "descripcion": ""
-  }
-  ,
+  },
   {
     "categoria": "ocasiones especiales",
     "titulo": "GRADUACION PERLA",
@@ -2940,8 +2888,7 @@
     "imagen": "img/367.png",
     "gd": "1",
     "descripcion": ""
-  }
-  ,
+  },
   {
     "categoria": "ocasiones especiales",
     "titulo": "GRADUACION BIRRETE",
@@ -2949,8 +2896,7 @@
     "imagen": "img/368.png",
     "gd": "1",
     "descripcion": ""
-  }
-  ,
+  },
   {
     "categoria": "ocasiones especiales",
     "titulo": "BABY SHOWER 01",
@@ -2958,8 +2904,7 @@
     "imagen": "img/369.png",
     "gd": "3",
     "descripcion": "Figuras punteadas"
-  }
-  ,
+  },
   {
     "categoria": "ocasiones especiales",
     "titulo": "FLORK REVELACION",
@@ -2967,8 +2912,7 @@
     "imagen": "img/370.jpg",
     "gd": "1",
     "descripcion": "pancita con crema de color celeste o rosada."
-  }
-  ,
+  },
   {
     "categoria": "ocasiones especiales",
     "titulo": "Uvas y trigos",
@@ -2976,8 +2920,7 @@
     "imagen": "img/371.png",
     "gd": "1",
     "descripcion": "uvas de Dulce, figura digital."
-  }
-  ,
+  },
   {
     "categoria": "ocasiones especiales",
     "titulo": "Feliz año",
@@ -2985,8 +2928,7 @@
     "imagen": "img/372.jpg",
     "gd": "1",
     "descripcion": "Galleta"
-  }
-  ,
+  },
   {
     "categoria": "genericos",
     "titulo": "Barbie Cake",
@@ -2994,8 +2936,7 @@
     "imagen": "img/373.png",
     "gd": "1",
     "descripcion": ""
-  }
-  ,
+  },
   {
     "categoria": "genericos",
     "titulo": "Globitos",
@@ -3003,8 +2944,7 @@
     "imagen": "img/374.png",
     "gd": "1",
     "descripcion": ""
-  }
-  ,
+  },
   {
     "categoria": "genericos",
     "titulo": "Jardin de amor",
@@ -3012,8 +2952,7 @@
     "imagen": "img/375.png",
     "gd": "1",
     "descripcion": ""
-  }
-  ,
+  },
   {
     "categoria": "genericos",
     "titulo": "Aurora",
@@ -3021,8 +2960,7 @@
     "imagen": "img/376.png",
     "gd": "1",
     "descripcion": ""
-  }
-  ,
+  },
   {
     "categoria": "genericos",
     "titulo": "Girasol",
@@ -3030,8 +2968,7 @@
     "imagen": "img/377.jpg",
     "gd": "5",
     "descripcion": "GIRASOL EN CREMA"
-  }
-  ,
+  },
   {
     "categoria": "genericos",
     "titulo": "Maximo",
@@ -3039,8 +2976,7 @@
     "imagen": "img/378.png",
     "gd": "1",
     "descripcion": "Galleta"
-  }
-  ,
+  },
   {
     "categoria": "genericos",
     "titulo": "Jardin de amor 02",
@@ -3048,8 +2984,7 @@
     "imagen": "img/379.png",
     "gd": "1",
     "descripcion": ""
-  }
-  ,
+  },
   {
     "categoria": "genericos",
     "titulo": "Kuromi Melody",
@@ -3057,8 +2992,7 @@
     "imagen": "img/380.jpg",
     "gd": "3",
     "descripcion": "Tortas 24 28 34cm en forma de corazon disponibles, otro tamaño seria redondo"
-  }
-  ,
+  },
   {
     "categoria": "genericos",
     "titulo": "Ilusion",
@@ -3066,8 +3000,7 @@
     "imagen": "img/381.jpg",
     "gd": "0",
     "descripcion": ""
-  }
-  ,
+  },
   {
     "categoria": "genericos",
     "titulo": "Choco Bom",
@@ -3075,8 +3008,7 @@
     "imagen": "img/382.jpg",
     "gd": "1",
     "descripcion": ""
-  }
-  ,
+  },
   {
     "categoria": "genericos",
     "titulo": "Lilo y Stitch 02",
@@ -3084,8 +3016,7 @@
     "imagen": "img/383.png",
     "gd": "3",
     "descripcion": "Figuras y comentario en topper, miga de la disponible"
-  }
-  ,
+  },
   {
     "categoria": "pasteles de línea",
     "titulo": "Linea 01",
@@ -3093,8 +3024,7 @@
     "imagen": "img/384.png",
     "gd": "2",
     "descripcion": "ROCETAS DE CREMA"
-  }
-  ,
+  },
   {
     "categoria": "pasteles de línea",
     "titulo": "Linea 02",
@@ -3102,8 +3032,7 @@
     "imagen": "img/385.png",
     "gd": "2",
     "descripcion": "Imagen digital"
-  }
-  ,
+  },
   {
     "categoria": "pasteles de línea",
     "titulo": "Linea 03",
@@ -3111,8 +3040,7 @@
     "imagen": "img/386.png",
     "gd": "2",
     "descripcion": "BAÑO DE CHOCOLATE"
-  }
-  ,
+  },
   {
     "categoria": "pasteles de línea",
     "titulo": "Linea 04",
@@ -3120,8 +3048,7 @@
     "imagen": "img/387.png",
     "gd": "2",
     "descripcion": "Imagen digital"
-  }
-  ,
+  },
   {
     "categoria": "pasteles de línea",
     "titulo": "Linea 05",
@@ -3129,8 +3056,7 @@
     "imagen": "img/388.png",
     "gd": "2",
     "descripcion": "Rosas en crema"
-  }
-  ,
+  },
   {
     "categoria": "pasteles de línea",
     "titulo": "Linea 06",
@@ -3138,8 +3064,7 @@
     "imagen": "img/389.png",
     "gd": "2",
     "descripcion": "IMAGEN DIGITAL, LATERAL TOPPER"
-  }
-  ,
+  },
   {
     "categoria": "pasteles de línea",
     "titulo": "Linea 07",
@@ -3147,8 +3072,7 @@
     "imagen": "img/390.png",
     "gd": "2",
     "descripcion": "IMAGEN DIGITAL"
-  }
-  ,
+  },
   {
     "categoria": "pasteles de línea",
     "titulo": "Alegria",
@@ -3156,8 +3080,7 @@
     "imagen": "img/391.png",
     "gd": "0",
     "descripcion": ""
-  }
-  ,
+  },
   {
     "categoria": "pasteles de línea",
     "titulo": "Linea 09",
@@ -3165,8 +3088,7 @@
     "imagen": "img/392.png",
     "gd": "1",
     "descripcion": ""
-  }
-  ,
+  },
   {
     "categoria": "pasteles de línea",
     "titulo": "Linea 10",
@@ -3174,8 +3096,7 @@
     "imagen": "img/393.png",
     "gd": "1",
     "descripcion": ""
-  }
-  ,
+  },
   {
     "categoria": "pasteles de línea",
     "titulo": "Linea 11",
@@ -3183,8 +3104,7 @@
     "imagen": "img/394.png",
     "gd": "1",
     "descripcion": ""
-  }
-  ,
+  },
   {
     "categoria": "pasteles de línea",
     "titulo": "Linea 12",
@@ -3192,8 +3112,7 @@
     "imagen": "img/395.png",
     "gd": "2",
     "descripcion": "BAÑADO DE DULCE DE LECHE"
-  }
-  ,
+  },
   {
     "categoria": "pasteles de línea",
     "titulo": "Linea 13",
@@ -3201,8 +3120,7 @@
     "imagen": "img/396.png",
     "gd": "1",
     "descripcion": ""
-  }
-  ,
+  },
   {
     "categoria": "pasteles de línea",
     "titulo": "Linea 14",
@@ -3210,8 +3128,7 @@
     "imagen": "img/397.png",
     "gd": "2",
     "descripcion": ""
-  }
-  ,
+  },
   {
     "categoria": "pasteles de línea",
     "titulo": "Linea 15",
@@ -3219,8 +3136,7 @@
     "imagen": "img/398.png",
     "gd": "2",
     "descripcion": ""
-  }
-  ,
+  },
   {
     "categoria": "pasteles de línea",
     "titulo": "Linea 16",
@@ -3228,8 +3144,7 @@
     "imagen": "img/399.png",
     "gd": "1",
     "descripcion": ""
-  }
-  ,
+  },
   {
     "categoria": "pasteles de línea",
     "titulo": "Linea 17",
@@ -3237,8 +3152,7 @@
     "imagen": "img/400.png",
     "gd": "1",
     "descripcion": ""
-  }
-  ,
+  },
   {
     "categoria": "pasteles de línea",
     "titulo": "Linea 18",
@@ -3246,8 +3160,7 @@
     "imagen": "img/401.png",
     "gd": "1",
     "descripcion": ""
-  }
-  ,
+  },
   {
     "categoria": "pasteles de línea",
     "titulo": "Linea 19",
@@ -3255,8 +3168,7 @@
     "imagen": "img/402.png",
     "gd": "2",
     "descripcion": ""
-  }
-  ,
+  },
   {
     "categoria": "pasteles de línea",
     "titulo": "Linea 20",
@@ -3264,8 +3176,7 @@
     "imagen": "img/403.png",
     "gd": "2",
     "descripcion": "Imagen digital"
-  }
-  ,
+  },
   {
     "categoria": "pasteles de línea",
     "titulo": "Linea 21",
@@ -3273,8 +3184,7 @@
     "imagen": "img/404.png",
     "gd": "0",
     "descripcion": "CHORREADO DE DULCE DE LECHE"
-  }
-  ,
+  },
   {
     "categoria": "pasteles de línea",
     "titulo": "Linea 22",
@@ -3282,8 +3192,7 @@
     "imagen": "img/405.png",
     "gd": "0",
     "descripcion": ""
-  }
-  ,
+  },
   {
     "categoria": "pasteles de línea",
     "titulo": "Linea 23",
@@ -3291,8 +3200,7 @@
     "imagen": "img/406.png",
     "gd": "0",
     "descripcion": ""
-  }
-  ,
+  },
   {
     "categoria": "pasteles de línea",
     "titulo": "Napolitano",
@@ -3300,8 +3208,7 @@
     "imagen": "img/407.png",
     "gd": "3",
     "descripcion": "CHORREADO DE DULCE DE LECHE"
-  }
-  ,
+  },
   {
     "categoria": "pasteles de línea",
     "titulo": "Delicia Azul",
@@ -3309,8 +3216,7 @@
     "imagen": "img/408.jpg",
     "gd": "1",
     "descripcion": "Fruta de la disponible, galleta"
-  }
-  ,
+  },
   {
     "categoria": "pasteles de línea",
     "titulo": "Chiqui Wow",
@@ -3318,8 +3224,7 @@
     "imagen": "img/409.png",
     "gd": "1",
     "descripcion": "galletas"
-  }
-  ,
+  },
   {
     "categoria": "pasteles de línea",
     "titulo": "Remolino Frutal",
@@ -3327,14 +3232,85 @@
     "imagen": "img/410.jpg",
     "gd": "2",
     "descripcion": "Melocotón y Fresas"
-  }
-  ,
+  },
   {
     "categoria": "pasteles de línea",
     "titulo": "Stitch de linea",
     "icono": "fa-solid fa-user",
     "imagen": "img/411.png",
     "gd": "3",
+    "descripcion": ""
+  },
+  {
+    "categoria": "genericos",
+    "titulo": "Capibara",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/412.jpg",
+    "gd": "2",
+    "descripcion": "Fifuras en dulce"
+  },
+  {
+    "categoria": "genericos",
+    "titulo": "Snoopy",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/413.jpg",
+    "gd": "2",
+    "descripcion": "Figuras en dulce"
+  },
+  {
+    "categoria": "genericos",
+    "titulo": "Pastel Tanjiri-Demon Slayer",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/414.png",
+    "gd": "4",
+    "descripcion": "Figuras en topper, lateral digital en plaquita de dulce"
+  },
+  {
+    "categoria": "genericos",
+    "titulo": "Inosuke",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/415.png",
+    "gd": "4",
+    "descripcion": "Figuras en topper, lateral digital"
+  },
+  {
+    "categoria": "genericos",
+    "titulo": "Shinobu",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/416.png",
+    "gd": "4",
+    "descripcion": "Figuras en Topper,"
+  },
+  {
+    "categoria": "genericos",
+    "titulo": "Zenitsu",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/417.png",
+    "gd": "4",
+    "descripcion": ""
+  },
+  {
+    "categoria": "genericos",
+    "titulo": "Spiderman Fest",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/418.jpg",
+    "gd": "0",
+    "descripcion": ""
+  },
+  {
+    "categoria": "genericos",
+    "titulo": "Chocofresa",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/419.jpg",
+    "gd": "1",
+    "descripcion": ""
+  },
+  {
+    "categoria": "genericos",
+    "titulo": "Lilas",
+    "icono": "fa-solid fa-user",
+    "imagen": "img/420.jpg",
+    "gd": "1",
     "descripcion": ""
   }
 ]
